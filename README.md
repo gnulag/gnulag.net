@@ -134,7 +134,7 @@ Here's [the entire list of gonzobot commands](https://snoonet.org/gonzobot).
 * `ix`: Resident weeb and audiophile, doesn't like any guitar that isn't a telecaster. Patron of the occult. Not to be bullied.
 * `xi`: Author of our bot (vini). In a toxic relationship with baguettes. FreeBSD shill. Fuchsia shill. Writes segfaults in C that only compile on `FreeBSD`.
 * `Zowlyfon`: Resident chad, lifts. Haskell Shill. In a sexual relationship with his headphones.
-* `whiteph`: Plays Guitar. Really good at physics. 
+* `whiteph`: Plays Guitar. Really good at physics.
 * `RadiantBastard`: His job is to remove kebab and add chaos. Uses macOS like a fuccboi.
 * `AndroidKitKat`:ウィーブ, Pretends to understand Japanese, actually kinda understands japanese, wants to live in japan someday, dont fuck with my bio you morons, Resident weeb and connoisseur of all anime. Other resident fuccboi (seriously, MacOS bad). Possibly owns anal beads, freeballs it every once in a while, wants the longest bio to assert dominance over the other virgin bios, would also occasionally not turn down the notion of being a cute anime girl
 * `pta2002`: Idiot kid. Actually a genius. Plays plastic guitar, but would love to play actual guitar. Likes BSPWM, Fedora, and allegedly codes in Go in his spare time, only to complain about it afterwards. Has a crush on Link, ~~no~~ ~~full~~ half homo.
@@ -149,10 +149,10 @@ Here's [the entire list of gonzobot commands](https://snoonet.org/gonzobot).
 * `za`: Depressed Arch Linux boye, is weirdly into keyboards, and anime tiddies. He pretends to be an audiophile, and vapes.
 
 ## Regulars Emeritus :(
-`crystalmett`: DON'T ASK AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA  :( Probably dead, we hope not
-`Tuxiee`: Electrical engineer. Bst. Pls come back :(
-`justJanne`: Actually knew what she was doing. We miss you. :(
-
-If you're regular, PM `browndawg` to get your name and description on here.
+`crystalmett`: DON'T ASK AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA  :( Probably dead, we hope not  
+`Tuxiee`: Electrical engineer. Bst. Pls come back :(  
+`justJanne`: Actually knew what she was doing. We miss you. :(  
+  
+If you're regular, PM `browndawg` to get your name and description on here.  
 
 
