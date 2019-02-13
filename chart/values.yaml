@@ -20,7 +20,7 @@ service:
   type: ClusterIP
   url: my.host.com
   additionalHosts:
-  path: /.*
+  path: /
   externalPort: 80
   internalPort: 80
 postgresql:
