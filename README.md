@@ -1,6 +1,6 @@
 # GNU/Lag
 
-Welcome to browndawg's highbrown society, we hope you enjoy your stay.
+Welcome to browndawg's highbrown society. Programmers + Sysadmins welcome.
 
 ## Rules
 
@@ -8,13 +8,12 @@ GNU/Lag doesn't have many rules you'd have to explicitly state. Don't be a dick,
 
 * No CP (we'll report you to every three letter agency in existence).
 * `NSFW` content need not be marked. Please mark gore and such as `NSFL`.
-* No lurking. Two week absence = kick.
+* No lurking.
 * No non-creative spam.
 * Don't post logs publicly.
 * Don't sneeze whilst getting fingered.
 * No bridges. Don't use them. Don't request we use them. No Matrix users (thank {insert your particular $DEITY here}).
-* No piracy or shady shit (`.torrent` or `.onion`). Network rules, don't look at us. To elaborate: you can talk about these things, but no direct links.
-* No references to traps.
+* No piracy or shady shit (`.torrent` or `.onion`). Network rules, don't look at us. You can talk about these things, but no links.
 
 ## Topics
 
@@ -22,7 +21,6 @@ While the channel was mostly founded by members of another `Linux` channel, `#gn
 
 * Anything other than Linux.
 * Communism, Capitalism, Anarcho-syndicorporalicapitalisticimperialism within closed communal tribes.
-* Benis.
 * Music / Books / Movies / Anime / TV.
 * Drugs.
 * Computer Science and Programming.
@@ -40,18 +38,14 @@ While the channel was mostly founded by members of another `Linux` channel, `#gn
 
 ## Links
 
-* [Webchat](https://tknk.io/WpEc)
+* [Webchat](https://tknk.io/A5YW)
 * [Telegram](https://t.me/gnulag)
-* [Discord](http://discord.me/gnulag)
 * [Mastodon](https://nihilist.space)
-* [Stats](https://tknk.io/zT6i)
-* [Reddit](https://old.reddit.com/r/watchpeopledieinside)
+* [Discord](http://discord.me/gnulag)
+* [Stats](https://bit.ly/2GFFsK1)
+* [Reddit](https://old.reddit.com/r/gnulag)
 * [The Cum Zone](https://thecum.zone/)
-* [Voat](https://voat.co)
-* [XHamster](https://www.xhamster.com)
-* [Pornhub](https://www.pornhub.com/model/ryancreamer)
 * [efukt](https://efukt.com/)
-* [Pain Olympics](https://shockchan.com/bme-pain-olympics/)
 * [Link](https://d3ieicw58ybon5.cloudfront.net/ex/350.350/shop/product/d16f82bc07374717bfece1cdba56d8b8.jpg)
 * [Official Channel Accessories](https://www.digitalmusicnews.com/wp-content/uploads/2016/09/airpodaccessory.jpg)
 
@@ -59,19 +53,18 @@ While the channel was mostly founded by members of another `Linux` channel, `#gn
 
 ### Who do I ask for help?
 
-* `browndawg` | `Richard-Stalin` | `Chairman-Brao` | `Ser-Brownne`
+* `browndawg` | `Richard-Stalin`
 * `iownall555`
-* `Zowlyfon` | `Z` 
+* `Zowlyfon` | `Z`
 * `A_Dragon` | `Roy_Mustang`
 * `AWindowsKrill` | `Volkor`
 * `ix`
 * `MrNeon`
 * `TinyTimmyTokyo` | `MrTripleT` for Gantoo Lunix help or tips.
-* `#linuxmasterrace`
 * `Lucifer` | `The Antichrist` | `The Prince of Lies`
 * `Anyone on the Suckless mailing list`
 
-In that order. 
+In that order.
 
 ### How do I register my nickname?
 
@@ -94,7 +87,7 @@ Yes. We're not an official help channel, but regulars will often help you out wi
 
 ### How do I share images / files / text on IRC?
 
-You'll have to host it somewhere, and share a public link. [Imgur](https://imgur.com) is a popular choice, but a lot of us use [Teknik](https://teknik.io),  [TransferSH](https://transfer.sh), or [ptpb](https://ptpb.pw).
+You'll have to host it somewhere, and share a public link. [Imgur](https://imgur.com) is a popular choice, but a lot of us use [Teknik](https://teknik.io), [TransferSH](https://transfer.sh), or [ptpb](https://ptpb.pw).
 
 For code or any arbitrary text really [github gist](https://gist.github.com/) is a good choice.
 
@@ -149,10 +142,10 @@ Here's [the entire list of gonzobot commands](https://snoonet.org/gonzobot).
 * `za`: Depressed Arch Linux boye, is weirdly into keyboards, and anime tiddies. He pretends to be an audiophile, and vapes.
 
 ## Regulars Emeritus :(
-`crystalmett`: DON'T ASK AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA  :( Probably dead, we hope not  
-`Tuxiee`: Electrical engineer. Bst. Pls come back :(  
-`justJanne`: Actually knew what she was doing. We miss you. :(  
-  
-If you're regular, PM `browndawg` to get your name and description on here.  
+`crystalmett`: DON'T ASK AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA  :( Probably dead, we hope not
+`justJanne`: Actually knew what she was doing. We miss you. :(
 
+If you're regular, PM `browndawg` to get your name and description on here.
 
+---
+© 2019 browndawg et al
