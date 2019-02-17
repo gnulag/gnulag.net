@@ -138,6 +138,7 @@ Here's [the entire list of gonzobot commands](https://snoonet.org/gonzobot).
 * `Jennifer-Lawrence`: Actually a black man from rural Alabama. Would like to be an anime girl. Has 10 terabytes of encrypted hentai on his university's Google Drive. Only actually appears to fucc ducks and bang dicks.
 * `Crocodillian`: Resident weed smoker. Is into good music. Codes C (allegedly). Also has a history of Perl programming (which he regrets). Owns 420 core workstation that everyone's jealous of.
 * `cheers`: Sure is :( a lot for a cheerful guy. Accelerationist. Probably responsible for global warming (GOD DAMN IT CHEERS).
+* `catbottom`: Resident chink. Loyalty in question. Seen more in #lmr than #gnulag. Thinks your doggo is a snacc.
 * `TinyTimmyTokyo`: Resident gayboye, Gantoo Lunix nerd, and eternally sleepless lurker. (Allegedly) is somewhat good at coding in C++ and Shell. Has Golden Retriever doggo but likes cats (don't ask why). Chaotic evil regexer. Also resident furry. Into transformation porn.
 * `za`: Depressed Arch Linux boye, is weirdly into keyboards, and anime tiddies. He pretends to be an audiophile, and vapes.
 
