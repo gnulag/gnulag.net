@@ -143,6 +143,7 @@ Here's [the entire list of gonzobot commands](https://snoonet.org/gonzobot).
 * `za`: Depressed Arch Linux boye, is weirdly into keyboards, and anime tiddies. He pretends to be an audiophile, and vapes.
 
 ## Regulars Emeritus :(
+
 * `crystalmett`: DON'T ASK AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA  :( Probably dead, we hope not
 * `justJanne`: Actually knew what she was doing. We miss you. :(
 
