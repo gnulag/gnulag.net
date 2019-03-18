@@ -121,6 +121,9 @@ Here's [the entire list of gonzobot commands](https://snoonet.org/gonzobot).
     * minecraft - `25565`
     * xonotic - `26000`
 
+### Xonotic
+To connect to the xonotic server get [xonotic](http://xonotic.org/), start it, open the console with `~` and type `connect cocaine.farm:26000`. You will need to reconnect on map change
+
 ## Regulars
 
 * `browndawg`: BTW he uses Arch Linux. Benevolent, fair OP. Has the power of JS rockstars AND normal rockstars. Vim ninja. ~~Sometimes~~ Always shits on streets. ~~Wants to sex the benis~~ Is as straight as he is white, and he's white AF.(LIES (allegedly)).
