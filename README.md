@@ -148,7 +148,6 @@ To connect to the xonotic server get [xonotic](http://xonotic.org/), start it, o
 ## Regulars Emeritus :(
 
 * `crystalmett`: DON'T ASK AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA  :( Probably dead, we hope not
-* `justJanne`: Actually knew what she was doing. We miss you. :(
 
 If you're regular, PM `browndawg` to get your name and description on here or send a PR to [our gitlab repo](https://gitlab.com/ejectedspace/gnulag/gnulag.net)
 
