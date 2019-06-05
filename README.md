@@ -117,6 +117,8 @@ No. Its #lmr with porn and commies, minus the [m]atrix lurkers. **Not affiliated
 
 Here's [the entire list of gonzobot commands](https://snoonet.org/gonzobot).
 
+We are running a n2n supernode for p2p connections. Refer to [here](https://github.com/ntop/n2n) for instruction on how to install the client (edge node), then connect with `sudo edge -d n2n0 -c gnulag -k <insert secret password here> -l cocaine.farm:7654 -a 10.255.88.<your ip number thingy here>`
+
 * [cocaine.farm](https://cocaine.farm) gameservers (game - port)
     * minecraft - `25565`
     * xonotic - `26000`
