@@ -78,7 +78,7 @@ https://snoonet.org/anope#NickServ.
 ### How do I stay permanently connected to the channel?
 
 * `/mode +j #gnulag`, or google on how to set up `autojoin` in your IRC client.
-* Get a [Snoonet BNC](https://snoonet.org/bnc) account (if you don't already have one), or set up a [Quassel Core](https://quassel-irc.org/) somewhere (we miss you `justJanne` :( ).
+* Get a [Snoonet BNC](https://snoonet.org/bnc) account (if you don't already have one), or set up a [Quassel Core](https://quassel-irc.org/) somewhere.
 * Alternatively, `ping vim.ninja`. If you're close enough to the server, ping `browndawg` for an account on his bouncer.
 
 ### Can I ask for programming / unix help?
@@ -120,7 +120,7 @@ Here's [the entire list of gonzobot commands](https://snoonet.org/gonzobot).
 We are running a n2n supernode for p2p connections. Refer to [here](https://github.com/ntop/n2n) for instruction on how to install the client (edge node), then connect with `sudo edge -d n2n0 -c gnulag -k <insert secret password here> -l cocaine.farm:7654 -a 10.255.88.<your ip number thingy here>`
 
 * [cocaine.farm](https://cocaine.farm) gameservers (game - port)
-    * minecraft - `25565`
+    * (minecraft - `25565`) currently shut down. Can be resurrected
     * xonotic - `26000`
 
 ### Xonotic
@@ -137,6 +137,7 @@ To connect to the xonotic server get [xonotic](http://xonotic.org/), start it, o
 * `AndroidKitKat`:ウィーブ, Pretends to understand Japanese, actually kinda understands japanese, wants to live in japan someday, dont fuck with my bio you morons, Resident weeb and connoisseur of all anime. Other resident fuccboi (seriously, MacOS bad). Possibly owns anal beads, freeballs it every once in a while, wants the longest bio to assert dominance over the other virgin bios, would also occasionally not turn down the notion of being a cute anime girl
 * `pta2002`: Idiot kid. Actually a genius. Plays plastic guitar, but would love to play actual guitar. Likes BSPWM, Fedora, and allegedly codes in Go in his spare time, only to complain about it afterwards. Has a crush on Link, ~~no~~ ~~full~~ half homo.
 * `AB49K`: Programs in an obsolete python version in the land down under, lives in shipping container. Has cute doggos. Will die of liver failure at age 30. Thongs wogs.
+* `audron`: Master of containers. Hosts a bunch of shit.
 * `A_Dragon`: Resident nazi mod. Eats babies. Surprisingly good guy. Other resident furry. Ask him what his name stands for.
 * `iownall555`: IDK how this guy is network staff but I'm glad he is, wishes he was British. `>Being a Britbong in $CURRENT_YEAR`
 * `MrNeon`: Resident commie. Sleeps with his socks on. May or may not use actual neon lights as dildoes. Connoisseur of incest porn.
@@ -149,7 +150,7 @@ To connect to the xonotic server get [xonotic](http://xonotic.org/), start it, o
 
 ## Regulars Emeritus :(
 
-* `crystalmett`: DON'T ASK AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA  :( Probably dead, we hope not
+* `Tuxiee`
 
 If you're regular, PM `browndawg` to get your name and description on here or send a PR to [our gitlab repo](https://gitlab.com/ejectedspace/gnulag/gnulag.net)
 
