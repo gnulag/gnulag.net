@@ -1,6 +1,6 @@
 # GNU/Lag
 
-Welcome to browndawg's highbrown society. Programmers + Sysadmins welcome.
+Welcome to browndawg's highbrown society for programmers and sysadmins.
 
 ## Rules
 
@@ -10,10 +10,21 @@ GNU/Lag doesn't have many rules you'd have to explicitly state. Don't be a dick,
 * `NSFW` content need not be marked. Please mark gore and such as `NSFL`.
 * No lurking.
 * No non-creative spam.
-* Don't post logs publicly.
+* Don't post logs anywhere.
 * Don't sneeze whilst getting fingered.
-* No bridges. Don't use them. Don't request we use them. No Matrix users (thank {insert your particular $DEITY here}).
 * No piracy or shady shit (`.torrent` or `.onion`). Network rules, don't look at us. You can talk about these things, but no links.
+
+## Links
+
+* [Webchat](https://tknk.io/A5YW)
+* [Telegram](https://t.me/gnulag)
+* [Mastodon](https://nihilist.space)
+* [Discord](http://discord.me/gnulag)
+* [Stats](https://bit.ly/2GFFsK1)
+* [Reddit](https://old.reddit.com/r/gnulag)
+* [File Sharing](https://thecum.zone/)
+* [Link](https://d3ieicw58ybon5.cloudfront.net/ex/350.350/shop/product/d16f82bc07374717bfece1cdba56d8b8.jpg)
+* [Official Channel Accessories](https://www.digitalmusicnews.com/wp-content/uploads/2016/09/airpodaccessory.jpg)
 
 ## Topics
 
@@ -28,39 +39,25 @@ While the channel was mostly founded by members of another `Linux` channel, `#gn
 * Poor career decisions (ask `whiteph` and `cheers`).
 * Bad Dragons (actually, dildos of all shapes and sizes).
 * Definitions of controversial words.
-* Regilion, and the occult.
+* Religion, and the occult.
 * Life size Lennart Poettering cutouts with a hole where the mouth is supposed to be.
 * LGBQIA stuff, porn, and sexuality in general.
 * The existential threat of frontend web development.
 * The UNIX philosophy and ~~how modern development is taking a giant shit on it~~ how good Lennart looks in plaid.
 * Definitely not talking about inline skating.
 
-
-## Links
-
-* [Webchat](https://tknk.io/A5YW)
-* [Telegram](https://t.me/gnulag)
-* [Mastodon](https://nihilist.space)
-* [Discord](http://discord.me/gnulag)
-* [Stats](https://bit.ly/2GFFsK1)
-* [Reddit](https://old.reddit.com/r/gnulag)
-* [The Cum Zone](https://thecum.zone/)
-* [efukt](https://efukt.com/)
-* [Link](https://d3ieicw58ybon5.cloudfront.net/ex/350.350/shop/product/d16f82bc07374717bfece1cdba56d8b8.jpg)
-* [Official Channel Accessories](https://www.digitalmusicnews.com/wp-content/uploads/2016/09/airpodaccessory.jpg)
-
 ## FAQ
 
 ### Who do I ask for help?
 
 * `browndawg` | `Richard-Stalin`
+* `crystalmett`
 * `iownall555`
 * `Zowlyfon` | `Z`
 * `A_Dragon` | `Roy_Mustang`
 * `AWindowsKrill` | `Volkor`
-* `ix`
 * `MrNeon`
-* `TinyTimmyTokyo` | `MrTripleT` for Gantoo Lunix help or tips.
+* `TinyTimmyTokyo` for Gantoo Lunix help or tips.
 * `Lucifer` | `The Antichrist` | `The Prince of Lies`
 * `Anyone on the Suckless mailing list`
 
@@ -79,7 +76,7 @@ https://snoonet.org/anope#NickServ.
 
 * `/mode +j #gnulag`, or google on how to set up `autojoin` in your IRC client.
 * Get a [Snoonet BNC](https://snoonet.org/bnc) account (if you don't already have one), or set up a [Quassel Core](https://quassel-irc.org/) somewhere.
-* Alternatively, `ping vim.ninja`. If you're close enough to the server, ping `browndawg` for an account on his bouncer.
+* Alternatively, ping `crystalmett` or `browndawg` for an account on their server.
 
 ### Can I ask for programming / unix help?
 
@@ -87,7 +84,7 @@ Yes. We're not an official help channel, but regulars will often help you out wi
 
 ### How do I share images / files / text on IRC?
 
-You'll have to host it somewhere, and share a public link. [Imgur](https://imgur.com) is a popular choice, but a lot of us use [Teknik](https://teknik.io), [TransferSH](https://transfer.sh), or [ptpb](https://ptpb.pw).
+You'll have to host it somewhere, and share a public link. [Imgur](https://imgur.com) is a popular choice, but a lot of us use [Teknik](https://teknik.io), and [TransferSH](https://transfer.sh).
 
 For code or any arbitrary text really [github gist](https://gist.github.com/) is a good choice.
 
@@ -98,22 +95,6 @@ There are scripts and tools that can automate this for you. Ask on the channel.
 No. Its #lmr with porn and commies, minus the [m]atrix lurkers. **Not affiliated with the subreddit / channel.**.
 
 ## Bots & Games
-
-* `.g <search>` does a google search.
-* `.wa <expression>` invokes wolframalpha on the given expression.
-* `.yt <search>` does a youtube search.
-* `.q <nick>` spits out a random quote for said nick.
-* `.fight <nick>` fights a nick.
-* `.kill <nick>` kills someone's nick in surprisingly creative ways.
-* `.grab <nick>` grabs the last thing that user said
-* `.tell <nick> <message>` send `<nick>` a `<message>` when they're active. Useful for contacting AFK or offline users.
-* `.penis` summons a dick
-* `succ` succs a dick
-* `cutt` cutts a dick
-
-* `%ourgirl` spits out one of ourgirls at random. Contact `browndawg` for inquiries about the ourgirl committee.
-* Beware of flying benis, when flying benis appears either use "cutt" or "succ" to remove or please the benis
-* Ducks also roam these lands, ducks can either be assfucked with ".bang" or invited in for a nice cup of tea with ".bef"
 
 Here's [the entire list of gonzobot commands](https://snoonet.org/gonzobot).
 
@@ -146,10 +127,12 @@ To connect to the xonotic server get [xonotic](http://xonotic.org/), start it, o
 * `catbottom`: Resident chink. Loyalty in question. Seen more in #lmr than #gnulag. Thinks your doggo is a snacc.
 * `TinyTimmyTokyo`: Resident gayboye, Gantoo Lunix nerd, and eternally sleepless lurker. (Allegedly) is somewhat good at coding in C++ and Shell. Has Golden Retriever doggo but likes cats (don't ask why). Chaotic evil regexer. Also resident furry. Into transformation porn.
 * `za`: Depressed Arch Linux boye, is weirdly into keyboards, and anime tiddies. He pretends to be an audiophile, and vapes.
+* `justJanne`: Genius. Never forgets a thing she reads. Resident data collection agency.
+* `crystalmett`: Turn-ons: OPSEC Turn-offs: [TRIPLE REDACTED AND BURNED FOR GOOD MEASURE]
 
 ## Regulars Emeritus :(
 
-* `Tuxiee`
+* `Tuxiee`: Thoroughly missed. Hope she finds joy in life.
 * `Jennifer-Lawrence`: Actually a black man from rural Alabama. Would like to be an anime girl. Has 10 terabytes of encrypted hentai on his university's Google Drive. Only actually appeared to fucc ducks and bang dicks.
 
 
@@ -157,3 +140,4 @@ If you're regular, PM `browndawg` to get your name and description on here or se
 
 ---
 © 2019 browndawg et al
+
