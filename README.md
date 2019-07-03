@@ -129,6 +129,7 @@ To connect to the xonotic server get [xonotic](http://xonotic.org/), start it, o
 * `za`: Depressed Arch Linux boye, is weirdly into keyboards, and anime tiddies. He pretends to be an audiophile, and vapes.
 * `justJanne`: Genius. Never forgets a thing she reads. Resident data collection agency.
 * `crystalmett`: Turn-ons: OPSEC Turn-offs: [TRIPLE REDACTED AND BURNED FOR GOOD MEASURE]
+* `digitalDiplomat`: Goes out of his way to avoid conflict. Currently a Manjaro user because Arch is overrated. Is trying to popularize the `.gvy` file extension because `.groovy` is irritatingly long.
 
 ## Regulars Emeritus :(
 
