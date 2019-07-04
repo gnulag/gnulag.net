@@ -1,0 +1,410 @@
+// Color system
+//
+
+// stylelint-disable
+$white:    #f5f5f5;
+$gray-100: #d2d2d2;
+$gray-200: #b6b6b6;
+$gray-300: #979797;
+$gray-400: #7d7d7d;
+$gray-500: #626262;
+$gray-600: #464646;
+$gray-700: #333333;
+$gray-800: #242424;
+$gray-900: #181818;
+$black:    #000;
+
+$grays: ();
+$grays: map-merge((
+100: $gray-100,
+200: $gray-200,
+300: $gray-300,
+400: $gray-400,
+500: $gray-500,
+600: $gray-600,
+700: $gray-700,
+800: $gray-800,
+900: $gray-900
+), $grays);
+
+$red-50: #FAE6E4;
+$red-100: #F2BFBB;
+$red-200: #EA958E;
+$red-300: #E26B61;
+$red-400: #DB4B3F;
+$red-500: #D52B1D;
+$red-600: #BC2218;
+$red-700: #A0140B;
+$red-800: #800D07;
+$red-900: #500502;
+
+$reds: ();
+$reds: map-merge((
+50: $red-50,
+100: $red-100,
+200: $red-200,
+300: $red-300,
+400: $red-400,
+500: $red-500,
+600: $red-600,
+700: $red-700,
+800: $red-800,
+900: $red-900
+), $reds);
+
+$orange-50: #fef3e8;
+$orange-100: #FBEADA;
+$orange-200: #F5CDA7;
+$orange-300: #EEA967;
+$orange-400: #EB9A4C;
+$orange-500: #E88A30;
+$orange-600: #DA7818;
+$orange-700: #B9671A;
+$orange-800: #824912;
+$orange-900: #59310C;
+
+$oranges: ();
+$oranges: map-merge((
+50: $orange-50,
+100: $orange-100,
+200: $orange-200,
+300: $orange-300,
+400: $orange-400,
+500: $orange-500,
+600: $orange-600,
+700: $orange-700,
+800: $orange-800,
+900: $orange-900
+), $oranges);
+
+$blue-50: #eff5fc;
+$blue-100: #dce9f9;
+$blue-200: #adcaf0;
+$blue-300: #71a3e5;
+$blue-400: #5793e0;
+$blue-500: #3d82db;
+$blue-600: #256ecb;
+$blue-700: #205ead;
+$blue-800: #1a4986;
+$blue-900: #13335d;
+
+$blues: ();
+$blues: map-merge((
+50: $blue-50,
+100: $blue-100,
+200: $blue-200,
+300: $blue-300,
+400: $blue-400,
+500: $blue-500,
+600: $blue-600,
+700: $blue-700,
+800: $blue-800,
+900: $blue-900
+), $blues);
+
+$green-50: #e3ffe3;
+$green-100: #c8eec8;
+$green-200: #9ee19c;
+$green-300: #67d066;
+$green-400: #50c94e;
+$green-500: #3cbf3a;
+$green-600: #32a030;
+$green-700: #217d20;
+$green-800: #1b5d1a;
+$green-900: #134112;
+
+$greens: ();
+$greens: map-merge((
+50: $green-50,
+100: $green-100,
+200: $green-200,
+300: $green-300,
+400: $green-400,
+500: $green-500,
+600: $green-600,
+700: $green-700,
+800: $green-800,
+900: $green-900
+), $greens);
+
+$blue:    $blue-500;
+$indigo:  #6610f2;
+$purple:  #6f42c1;
+$pink:    #e83e8c;
+$red:     $red-500;
+$orange:  $orange-500;
+$yellow:  #ffc107;
+$green:   $green-500;
+$teal:    #20c997;
+$cyan:    #17a2b8;
+
+$colors: ();
+$colors: map-merge((
+"blue":       $blue,
+"indigo":     $indigo,
+"purple":     $purple,
+"pink":       $pink,
+"red":        $red,
+"orange":     $orange,
+"yellow":     $yellow,
+"green":      $green,
+"teal":       $teal,
+"cyan":       $cyan,
+"white":      $white,
+"gray":       $gray-600,
+"gray-dark":  $gray-800
+), $colors);
+
+$primary:       $orange;
+$secondary:     $gray-700;
+$success:       $green;
+$info:          $blue;
+$warning:       $orange-400;
+$danger:        $red;
+$light:         $gray-100;
+$dark:          $gray-800;
+
+$theme-colors: ();
+$theme-colors: map-merge((
+"primary":    $primary,
+"secondary":  $secondary,
+"success":    $success,
+"info":       $info,
+"warning":    $warning,
+"danger":     $danger,
+"light":      $light,
+"dark":       $dark
+), $theme-colors);
+
+.level1 {
+    @extend .container;
+    @extend .py-5;
+}
+
+.level2 {
+    @extend .row;
+    @extend .col;
+    @extend .card;
+    @extend .bg-dark;
+}
+
+
+
+@mixin color-attr-x($arr: $greens, $attr: 'background-color') {
+  @each $name, $hex in $arr {
+    &-#{$name} {
+      #{$attr}: $hex !important;
+      @if $arr == $reds {
+        @if $name >= 500 {
+          color: $white !important;
+        } @else {
+          color: $black !important;
+        }
+      } @else if $arr == $oranges {
+        @if $name >= 700 {
+          color: $white !important;
+        } @else {
+          color: $black !important;
+        }
+      } @else if $arr == $blues {
+        @if $name >= 600 {
+          color: $white !important;
+        } @else {
+          color: $black !important;
+        }
+      } @else if $arr == $greens {
+        @if $name >= 700 {
+          color: $white !important;
+        } @else {
+          color: $black !important;
+        }
+      } @else if $arr == $grays {
+        @if $name >= 500 {
+          color: $white !important;
+        } @else {
+          color: $black !important;
+        }
+      }
+    }
+  }
+}
+
+.bg-gray {
+  @include color-attr-x($grays, 'background-color');
+}
+
+.bg-white {
+  background-color: $white;
+}
+
+.bg-red {
+  @include color-attr-x($reds, 'background-color');
+}
+
+.bg-orange {
+  @include color-attr-x($oranges, 'background-color');
+}
+
+.bg-blue {
+  @include color-attr-x($blues, 'background-color');
+}
+
+.bg-green {
+  @include color-attr-x($greens, 'background-color');
+}
+
+
+// Options
+//
+// Quickly modify global styling by enabling or disabling optional features.
+
+$yiq-contrasted-threshold:  115 !default;
+
+$enable-caret:              true;
+$enable-rounded:            true;
+$enable-shadows:            false;
+$enable-gradients:          false;
+$enable-transitions:        true;
+$enable-hover-media-query:  false; // Deprecated, no longer affects any compiled CSS
+$enable-grid-classes:       true;
+$enable-print-styles:       true;
+
+//$border-width: 0;
+
+$border-radius:               .1rem;
+$border-radius-lg:            .1rem;
+$border-radius-sm:            .1rem;
+
+// stylelint-enable
+// Body
+//
+// Settings for the `<body>` element.
+
+$body-bg:                   $gray-900;
+$body-color:                $white !default;
+
+// stylelint-disable
+
+// stylelint-enable
+// Components
+//
+// Define common padding and border radius sizes and more.
+$border-color:                $gray-600;
+
+$text-muted:                  $gray-400;
+
+$blockquote-small-color:      $gray-400;
+
+$hr-border-color:             rgba($white, .1);
+
+$btn-link-disabled-color:     $gray-400;
+
+// Jumbotron
+
+$jumbotron-padding:                 2rem;
+$jumbotron-bg:                      $gray-800;
+
+// Alerts
+
+$alert-bg-level:                    -2;
+$alert-border-level:                -2;
+$alert-color-level:                 12;
+
+// Forms
+$input-bg:                              $gray-700;
+$input-disabled-bg:                     $gray-800;
+
+$input-color:                           $white;
+
+$input-border-width:                    0px;
+
+$input-placeholder-color:               $gray-400;
+
+$input-group-addon-color:               $orange-500;
+$input-group-addon-bg:                  $gray-700;
+
+// Dropdowns
+//
+// Dropdown menu container and contents.
+$dropdown-bg:                       $gray-700;
+$dropdown-link-color:               $white;
+$dropdown-link-hover-color:         darken($dropdown-link-color, 5%);
+$dropdown-link-hover-bg:            $gray-600;
+
+
+// Navs
+$nav-tabs-link-active-color:        $gray-100; 
+$nav-tabs-link-active-bg:           $gray-800;
+
+// Cards
+$card-cap-bg:                       $primary;
+$card-bg:                           $gray-700;
+$card-border-width:                 0;
+
+$card-img-overlay-padding:          0;
+
+// Tooltips
+$tooltip-bg:                        $gray-800;
+
+// List group
+$list-group-bg:                     $gray-900;
+$list-group-hover-bg:               $gray-700;
+
+$list-group-item-padding-y:         .75rem;
+$list-group-item-padding-x:         1.25rem;
+
+
+$list-group-disabled-color:         $gray-400;
+
+$list-group-action-color:           $white;
+
+$list-group-active-color:           $black;
+$list-group-action-active-color:    $body-color;
+$list-group-action-active-bg:       $gray-200;
+
+
+// Close
+$close-color:                       $white;
+
+@import 'bootstrap';
+
+.card-header {
+  @extend .card-header;
+  color: $black;
+}
+
+.bg-primary {
+  @extend .bg-primary;
+  color: $black;
+}
+
+.bg-success {
+  @extend .bg-success;
+  color: $black;
+}
+
+.bg-warning {
+  @extend .bg-warning;
+  color: $black;
+}
+
+.bg-info {
+  @extend .bg-info;
+  color: $black;
+}
+
+.bg-light {
+  @extend .bg-light;
+  color: $black;
+} 
+
+.card {
+  @extend .card;
+  margin-top: 1rem;
+}
+
+.input-group-text {
+  @extend .input-group-prepend;
+  border-right-width: 1px;
+  border-right-color: $primary;
+}
