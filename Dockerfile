@@ -1,7 +1,7 @@
-FROM debian as builder
+FROM fedora as builder
 WORKDIR /build
 COPY . .
-RUN apt-get update && apt-get install -y git sassc pandoc perl make
+RUN dnf install -y git sassc pandoc perl make
 RUN make build
 
 FROM ejectedspace/saneginx
