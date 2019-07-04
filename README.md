@@ -137,7 +137,7 @@ To connect to the xonotic server get [xonotic](http://xonotic.org/), start it, o
 * `Jennifer-Lawrence`: Actually a black man from rural Alabama. Would like to be an anime girl. Has 10 terabytes of encrypted hentai on his university's Google Drive. Only actually appeared to fucc ducks and bang dicks.
 
 
-If you're regular, PM `browndawg` to get your name and description on here or send a PR to [our gitlab repo](https://gitlab.com/ejectedspace/gnulag/gnulag.net)
+If you're regular, PM `browndawg` to get your name and description on here or send a PR to [our github repo](https://github.com/gnulag/gnulag.net)
 
 ---
 © 2019 browndawg et al
