@@ -120,7 +120,7 @@ To connect to the xonotic server get [xonotic](http://xonotic.org/), start it, o
 * `AB49K`: Programs in an obsolete python version in the land down under, lives in shipping container. Has cute doggos. Will die of liver failure at age 30. Thongs wogs.
 * `audron`: Master of containers. Hosts a bunch of shit.
 * `A_Dragon`: Resident nazi mod. Eats babies. Surprisingly good guy. Other resident furry. Ask him what his name stands for.
-* `iownall555`: IDK how this guy is network staff but I'm glad he is, wishes he was British. `>Being a Britbong in $CURRENT_YEAR`
+* `iownall555`: IDK how this guy is network staff but I'm glad he is, wishes he was British. `>Being a Britbong in $CURRENT_YEAR` Also thongs wogs with AB49K in the land down under while preaching the good word of Richard M. Stallman, our GNU/Lord and Savior.
 * `MrNeon`: Resident commie. Sleeps with his socks on. May or may not use actual neon lights as dildoes. Connoisseur of incest porn.
 * `Crocodillian`: Resident weed smoker. Is into good music. Codes C (allegedly). Also has a history of Perl programming (which he regrets). Owns 420 core workstation that everyone's jealous of.
 * `cheers`: Sure is :( a lot for a cheerful guy. Accelerationist. Probably responsible for global warming (GOD DAMN IT CHEERS).
