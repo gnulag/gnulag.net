@@ -15,7 +15,7 @@ dist/index.html:
 dist/style.css: vendor/bootstrap/scss
 	sassc -t compressed -I vendor/bootstrap/scss -a src/style.scss dist/style.css
 
-vendor/boostrap/scss:
+vendor/bootstrap/scss:
 	git submodule init
 	git submodule update
 
