@@ -36,7 +36,7 @@ While the channel was mostly founded by members of another `Linux` channel, `#gn
 * Drugs.
 * Computer Science and Programming.
 * Zygohistomorphic prepromorphisms.
-* Poor career decisions (ask `whiteph` and `cheers` and `belzurix`).
+* Poor career decisions (ask `whiteph`, `cheers` and `belzurix`).
 * Bad Dragons (actually, dildos of all shapes and sizes).
 * Definitions of controversial words.
 * Religion, and the occult.
