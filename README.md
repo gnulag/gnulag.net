@@ -22,7 +22,9 @@ GNU/Lag doesn't have many rules you'd have to explicitly state. Don't be a dick,
 * [Discord](http://discord.me/gnulag)
 * [Stats](https://bit.ly/2GFFsK1)
 * [Reddit](https://old.reddit.com/r/gnulag)
+* [GitHub](https://github.com/gnulag)
 * [File Sharing](https://thecum.zone/)
+* [More File Sharing](https://p.gnulag.net)
 * [Link](https://d3ieicw58ybon5.cloudfront.net/ex/350.350/shop/product/d16f82bc07374717bfece1cdba56d8b8.jpg)
 * [Official Channel Accessories](https://www.digitalmusicnews.com/wp-content/uploads/2016/09/airpodaccessory.jpg)
 
@@ -118,7 +120,7 @@ To connect to the xonotic server get [xonotic](http://xonotic.org/), start it, o
 * `AndroidKitKat`:ウィーブ, Pretends to understand Japanese, actually kinda understands japanese, wants to live in japan someday, dont fuck with my bio you morons, Resident weeb and connoisseur of all anime. Other resident fuccboi (seriously, MacOS bad). Possibly owns anal beads, freeballs it every once in a while, wants the longest bio to assert dominance over the other virgin bios, would also occasionally not turn down the notion of being a cute anime girl
 * `pta2002`: Idiot kid. Actually a genius. Plays plastic guitar, ~~but would love to play actual guitar~~ **UPDATE**: plays actual guitar too. Likes BSPWM, Fedora, and allegedly codes in Go in his spare time, only to complain about it afterwards. Has a crush on Link, ~~no~~ ~~full~~ half homo.
 * `AB49K`: Programs in an obsolete python version in the land down under, lives in shipping container. Has cute doggos. Will die of liver failure at age 30. Thongs wogs.
-* `audron`: Master of containers. Hosts a bunch of shit.
+* `audron`: Master of containers. Hosts a bunch of shit that constantly breaks. Somehow attracts segfaults.
 * `A_Dragon`: Resident nazi mod. Eats babies. Surprisingly good guy. Other resident furry. Ask him what his name stands for.
 * `iownall555`: IDK how this guy is network staff but I'm glad he is, wishes he was British. `>Being a Britbong in $CURRENT_YEAR` Also thongs wogs with AB49K in the land down under while preaching the good word of Richard M. Stallman, our GNU/Lord and Savior.
 * `MrNeon`: Resident commie. Sleeps with his socks on. May or may not use actual neon lights as dildoes. Connoisseur of incest porn.
