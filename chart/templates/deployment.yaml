@@ -22,6 +22,11 @@ spec:
     spec:
       imagePullSecrets:
 {{ toYaml .Values.image.secrets | indent 10 }}
+      strategy:
+        type: RollingUpdate
+        rollingUpdate:
+           maxUnavailable: 25%
+           maxSurge: 1
       containers:
       - name: {{ .Chart.Name }}
         image: "{{ .Values.image.repository }}:{{ .Values.image.tag }}"
