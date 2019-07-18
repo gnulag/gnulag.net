@@ -36,7 +36,7 @@ While the channel was mostly founded by members of another `Linux` channel, `#gn
 * Drugs.
 * Computer Science and Programming.
 * Zygohistomorphic prepromorphisms.
-* Poor career decisions (ask `whiteph` and `cheers`).
+* Poor career decisions (ask `whiteph`, `cheers` and `belzurix`).
 * Bad Dragons (actually, dildos of all shapes and sizes).
 * Definitions of controversial words.
 * Religion, and the occult.
@@ -130,6 +130,7 @@ To connect to the xonotic server get [xonotic](http://xonotic.org/), start it, o
 * `justJanne`: Genius. Never forgets a thing she reads. Resident data collection agency.
 * `crystalmett`: Turn-ons: OPSEC Turn-offs: [TRIPLE REDACTED AND BURNED FOR GOOD MEASURE]
 * `digitalDiplomat`: Goes out of his way to avoid conflict. Currently a Manjaro user because Arch is overrated. Is trying to popularize the `.gvy` file extension because `.groovy` is irritatingly long.
+* `belzurix`: Resident changeling. Communist sleeper cell (watch out for redzurix). Wishes to establish GNUSSR. Master of getting hw for free, suffers when needs to pay for something.
 
 ## Regulars Emeritus :(
 
