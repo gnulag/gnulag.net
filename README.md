@@ -109,6 +109,9 @@ We are running a n2n supernode for p2p connections. Refer to [here](https://gith
 ### Xonotic
 To connect to the xonotic server get [xonotic](http://xonotic.org/), start it, open the console with `~` and type `connect cocaine.farm:26000`. You will need to reconnect on map change
 
+## GNULag
+![gnulag](./img/de7a5ea1a6.png)
+
 ## Regulars
 
 * `browndawg`: BTW he uses Arch Linux. Benevolent, fair OP. Has the power of JS rockstars AND normal rockstars. Vim ninja. ~~Sometimes~~ Always shits on streets. ~~Wants to sex the benis~~ Is as straight as he is white, and he's white AF.(LIES (allegedly)).
