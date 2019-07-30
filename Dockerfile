@@ -1,7 +1,6 @@
-FROM fedora as builder
+FROM ejectedspace/pandoc-builder as builder
 WORKDIR /build
 COPY . .
-RUN dnf install -y git sassc pandoc perl make
 RUN make build
 
 FROM ejectedspace/saneginx
