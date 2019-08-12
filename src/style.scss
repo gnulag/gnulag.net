@@ -404,6 +404,18 @@ $close-color:                       $white;
 @import "utilities";
 @import "print";
 
+code {
+    @extend code;
+    color: $gray-900;
+    background-color: $orange-500;
+    padding-top: 0.15rem;
+    padding-bottom: 0;
+    padding-left: 0.30rem;
+    padding-right: 0.30rem;
+    border: 1px solid rgba(255, 255, 255, .1) !important;
+    border-radius: 2px;
+}
+
 .card-header {
   @extend .card-header;
   color: $black;
