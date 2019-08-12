@@ -331,6 +331,7 @@ $dropdown-link-color:               $white;
 $dropdown-link-hover-color:         darken($dropdown-link-color, 5%);
 $dropdown-link-hover-bg:            $gray-600;
 
+$link-decoration:                         underline;
 
 // Navs
 $nav-tabs-link-active-color:        $gray-100; 
@@ -362,6 +363,12 @@ $list-group-active-color:           $black;
 $list-group-action-active-color:    $body-color;
 $list-group-action-active-bg:       $gray-200;
 
+$container-max-widths: (
+  sm: 540px,
+  md: 720px,
+  lg: 800px,
+  xl: 801px
+);
 
 // Close
 $close-color:                       $white;
@@ -372,7 +379,7 @@ $close-color:                       $white;
 @import "root";
 @import "reboot";
 // @import "type";
-// @import "images";
+@import "images";
 @import "code";
 @import "grid";
 @import "tables";
@@ -404,16 +411,38 @@ $close-color:                       $white;
 @import "utilities";
 @import "print";
 
+strong {
+    color: $orange-500;
+}
+
 code {
     @extend code;
-    color: $gray-900;
-    background-color: $orange-500;
+    // color: $gray-900;
+    // background-color: $orange-500;
+    color: $gray-100;
+    background-color: #282828;
     padding-top: 0.15rem;
     padding-bottom: 0;
     padding-left: 0.30rem;
     padding-right: 0.30rem;
     border: 1px solid rgba(255, 255, 255, .1) !important;
-    border-radius: 2px;
+}
+
+pre code {
+    @extend code;
+    color: $gray-100;
+    background-color: #282828;
+    padding-top: 0.15rem;
+    padding-bottom: 0;
+    padding-left: 0.30rem;
+    padding-right: 0.30rem;
+    border: none !important;
+}
+
+pre {
+    color: $gray-100;
+    background-color: #282828;
+    border: 1px solid rgba(255, 255, 255, .1) !important;
 }
 
 .card-header {
