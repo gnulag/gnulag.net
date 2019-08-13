@@ -178,7 +178,6 @@ $theme-colors: map-merge((
 
 .level1 {
     @extend .container;
-    @extend .py-5;
 }
 
 .level2 {
@@ -384,14 +383,14 @@ $close-color:                       $white;
 @import "grid";
 @import "tables";
 // @import "forms";
-@import "buttons";
+// @import "buttons";
 // @import "transitions";
 // @import "dropdown";
 // @import "button-group";
 // @import "input-group";
 // @import "custom-forms";
 // @import "nav";
-//@import "navbar";
+// @import "navbar";
 @import "card";
 // @import "breadcrumb";
 // @import "pagination";
@@ -409,7 +408,7 @@ $close-color:                       $white;
 // @import "carousel";
 // @import "spinners";
 @import "utilities";
-@import "print";
+// @import "print";
 
 strong {
     color: $orange-500;
@@ -426,7 +425,7 @@ code {
     padding-left: 0.30rem;
     padding-right: 0.30rem;
     border: 1px solid rgba(255, 255, 255, .1) !important;
-}
+};
 
 pre code {
     @extend code;
@@ -437,51 +436,51 @@ pre code {
     padding-left: 0.30rem;
     padding-right: 0.30rem;
     border: none !important;
-}
+};
 
 pre {
     color: $gray-100;
     background-color: #282828;
     border: 1px solid rgba(255, 255, 255, .1) !important;
-}
+};
 
 .card-header {
   @extend .card-header;
   color: $black;
-}
+};
 
 .bg-primary {
   @extend .bg-primary;
   color: $black;
-}
+};
 
 .bg-success {
   @extend .bg-success;
   color: $black;
-}
+};
 
 .bg-warning {
   @extend .bg-warning;
   color: $black;
-}
+};
 
 .bg-info {
   @extend .bg-info;
   color: $black;
-}
+};
 
 .bg-light {
   @extend .bg-light;
   color: $black;
-} 
+};
 
 .card {
   @extend .card;
   margin-top: 1rem;
-}
+};
 
 .input-group-text {
   @extend .input-group-prepend !optional;
   border-right-width: 1px;
   border-right-color: $primary;
-}
+};
