@@ -156,6 +156,7 @@ You will need to reconnect on map change
 * **crystalmett**: Turn-ons: OPSEC Turn-offs: [TRIPLE REDACTED AND BURNED FOR GOOD MEASURE]
 * **digitalDiplomat**: Goes out of his way to avoid conflict. Currently a Manjaro user because Arch is overrated. Is trying to popularize the **.gvy** file extension because **.groovy** is irritatingly long.
 * **belzurix**: Resident changeling. Communist sleeper cell (watch out for redzurix). Wishes to establish GNUSSR. Master of getting hw for free, suffers when needs to pay for something.
+* **Rolfe**: Farm fresh Idaho potato. Waifu supplier. Insists her stuffed toy collection doesn't come alive when you're asleep. Dabbles in rule34 involving extra long moustaches.
 
 ## Regulars Emeritus :(
 
