@@ -20,7 +20,7 @@ GNU/Lag doesn't have many rules you'd have to explicitly state. Don't be a dick,
 * [Telegram](https://t.me/gnulag)
 * [Mastodon](https://nihilist.space)
 * [Discord](http://discord.me/gnulag)
-* [Stats](https://bit.ly/2GFFsK1)
+* [Stats](https://gnulag.stats.c8h10n4o2.xyz/)
 * [Reddit](https://old.reddit.com/r/gnulag)
 * [GitHub](https://github.com/gnulag)
 * [File Sharing](https://thecum.zone/)
