@@ -41,7 +41,7 @@ include:
   - template: Security/Dependency-Scanning.gitlab-ci.yml
 
 .auto-deploy:
-  image: "registry.gitlab.com/cocainefarm/templates/auto-deploy-image/master:ad9957f1ef0e35a4dd31d578d1a5fcb69e7bdf5f"
+  image: "registry.gitlab.com/cocainefarm/templates/auto-deploy-image/master:a2533f46e155baff05c23ff40da517657a2eb947"
 
 production:
   environment:
