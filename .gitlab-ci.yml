@@ -34,7 +34,8 @@ stages:
   - cleanup
 
 include:
-  - template: Jobs/Build.gitlab-ci.yml
+  - project: 'cocainefarm/templates/ci'
+    file: '/Build.gitlab-ci.yaml'
   - template: Jobs/Deploy.gitlab-ci.yml
   - template: Security/Container-Scanning.gitlab-ci.yml
   - template: Security/Dependency-Scanning.gitlab-ci.yml
