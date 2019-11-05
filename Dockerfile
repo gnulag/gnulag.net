@@ -3,5 +3,5 @@ WORKDIR /build
 COPY . .
 RUN make build
 
-FROM ejectedspace/saneginx
+FROM nginx
 COPY --from=builder /build/dist/ /usr/share/nginx/html/
