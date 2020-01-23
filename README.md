@@ -36,6 +36,7 @@ While the channel was mostly founded by members of another **Linux** channel, **
 * Communism, Capitalism, Anarcho-syndicorporalicapitalisticimperialism within closed communal tribes.
 * Music / Books / Movies / Anime / TV.
 * Drugs.
+* Kill all Humans.
 * Computer Science and Programming.
 * Zygohistomorphic prepromorphisms.
 * Poor career decisions (ask **whiteph**, **cheers** and **belzurix**).
