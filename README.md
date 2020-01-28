@@ -56,6 +56,7 @@ While the channel was mostly founded by members of another **Linux** channel, **
 * **browndawg** | **Richard-Stalin**
 * **crystalmett**
 * **iownall555**
+* **audron**
 * **Zowlyfon** | **Z**
 * **A_Dragon** | **Roy_Mustang**
 * **AWindowsKrill** | **Volkor**
@@ -90,9 +91,12 @@ Yes. We're not an official help channel, but regulars will often help you out wi
 
 You'll have to host it somewhere, and share a public link.  
 We have two services hosted by community members:
+
 * [thecum.zone](https://thecum.zone)
-* [p.gnulag.net](https://p.gnulag.net)
-or use public services like:  
+* ~~[p.gnulag.net](https://p.gnulag.net)~~
+
+or use public services like:
+
 * [Imgur](https://imgur.com)
 * [Teknik](https://teknik.io)
 * [TransferSH](https://transfer.sh)
@@ -103,7 +107,7 @@ There are scripts and tools that can automate this for you. Ask on the channel.
 
 ### Is this just #linuxmasterrace with porn?
 
-No. Its #lmr with porn and commies, minus the [m]atrix lurkers.  
+No. Its #lmr with porn and commies, ~~minus the [m]atrix lurkers.~~ (PURGED)  
 **Not affiliated with the subreddit / channel.**.
 
 ## Bots & Games
@@ -148,7 +152,6 @@ You will need to reconnect on map change
 * **A_Dragon**: Resident nazi mod. Eats babies. Surprisingly good guy. Other resident furry. Ask him what his name stands for.
 * **iownall555**: IDK how this guy is network staff but I'm glad he is, wishes he was British. **>Being a Britbong in $CURRENT_YEAR** Also thongs wogs with AB49K in the land down under while preaching the good word of Richard M. Stallman, our GNU/Lord and Savior.
 * **MrNeon**: Resident commie. Sleeps with his socks on. May or may not use actual neon lights as dildoes. Connoisseur of incest porn.
-* **Crocodillian**: Resident weed smoker. Is into good music. Codes C (allegedly). Also has a history of Perl programming (which he regrets). Owns 420 core workstation that everyone's jealous of.
 * **cheers**: Sure is :( a lot for a cheerful guy. Accelerationist. Probably responsible for global warming (GOD DAMN IT CHEERS).
 * **catbottom**: Resident chink. Loyalty in question. Seen more in #lmr than #gnulag. Thinks your doggo is a snacc.
 * **TinyTimmyTokyo**: Resident gayboye, Gantoo Lunix nerd, and eternally sleepless lurker. (Allegedly) is somewhat good at coding in C++ and Shell. Has Golden Retriever doggo but likes cats (don't ask why). Chaotic evil regexer. Also resident furry. Into transformation porn.
@@ -161,7 +164,7 @@ You will need to reconnect on map change
 
 ## Regulars Emeritus :(
 
-* **Tuxiee**: Thoroughly missed. Hope she finds joy in life.
+* **Crocodillian**: Resident weed smoker. Is into good music. Codes C (allegedly). Also has a history of Perl programming (which he regrets). Owns 420 core workstation that everyone's jealous of.
 * **Jennifer-Lawrence**: Actually a black man from rural Alabama. Would like to be an anime girl.  
   Has 10 terabytes of encrypted hentai on his university's Google Drive. Only actually appeared to fucc ducks and bang dicks.
 
@@ -170,5 +173,5 @@ If you're regular, PM **browndawg** to get your name and description on here,
 or send a PR to [our github repo](https://github.com/gnulag/gnulag.net)
 
 ---
-© 2019 browndawg et al
+© 2020 browndawg et al
 
