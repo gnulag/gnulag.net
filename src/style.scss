@@ -178,7 +178,6 @@ $theme-colors: map-merge((
 
 .level1 {
     @extend .container;
-    @extend .py-5;
 }
 
 .level2 {
@@ -331,6 +330,7 @@ $dropdown-link-color:               $white;
 $dropdown-link-hover-color:         darken($dropdown-link-color, 5%);
 $dropdown-link-hover-bg:            $gray-600;
 
+$link-decoration:                         underline;
 
 // Navs
 $nav-tabs-link-active-color:        $gray-100; 
@@ -362,49 +362,125 @@ $list-group-active-color:           $black;
 $list-group-action-active-color:    $body-color;
 $list-group-action-active-bg:       $gray-200;
 
+$container-max-widths: (
+  sm: 540px,
+  md: 720px,
+  lg: 800px,
+  xl: 801px
+);
 
 // Close
 $close-color:                       $white;
 
-@import 'bootstrap';
+@import "functions";
+@import "variables";
+@import "mixins";
+@import "root";
+@import "reboot";
+// @import "type";
+@import "images";
+@import "code";
+@import "grid";
+@import "tables";
+// @import "forms";
+// @import "buttons";
+// @import "transitions";
+// @import "dropdown";
+// @import "button-group";
+// @import "input-group";
+// @import "custom-forms";
+// @import "nav";
+// @import "navbar";
+@import "card";
+// @import "breadcrumb";
+// @import "pagination";
+// @import "badge";
+@import "jumbotron";
+// @import "alert";
+// @import "progress";
+// @import "media";
+// @import "list-group";
+// @import "close";
+// @import "toasts";
+// @import "modal";
+// @import "tooltip";
+// @import "popover";
+// @import "carousel";
+// @import "spinners";
+@import "utilities";
+// @import "print";
+
+strong {
+    color: $orange-500;
+}
+
+code {
+    @extend code;
+    // color: $gray-900;
+    // background-color: $orange-500;
+    color: $gray-100;
+    background-color: #282828;
+    padding-top: 0.15rem;
+    padding-bottom: 0;
+    padding-left: 0.30rem;
+    padding-right: 0.30rem;
+    border: 1px solid rgba(255, 255, 255, .1) !important;
+};
+
+pre code {
+    @extend code;
+    color: $gray-100;
+    background-color: #282828;
+    padding-top: 0.15rem;
+    padding-bottom: 0;
+    padding-left: 0.30rem;
+    padding-right: 0.30rem;
+    border: none !important;
+};
+
+pre {
+    color: $gray-100;
+    background-color: #282828;
+    border: 1px solid rgba(255, 255, 255, .1) !important;
+};
 
 .card-header {
   @extend .card-header;
   color: $black;
-}
+};
 
 .bg-primary {
   @extend .bg-primary;
   color: $black;
-}
+};
 
 .bg-success {
   @extend .bg-success;
   color: $black;
-}
+};
 
 .bg-warning {
   @extend .bg-warning;
   color: $black;
-}
+};
 
 .bg-info {
   @extend .bg-info;
   color: $black;
-}
+};
 
 .bg-light {
   @extend .bg-light;
   color: $black;
-} 
+};
 
 .card {
   @extend .card;
   margin-top: 1rem;
-}
+};
 
 .input-group-text {
-  @extend .input-group-prepend;
+  @extend .input-group-prepend !optional;
   border-right-width: 1px;
   border-right-color: $primary;
-}
+};
