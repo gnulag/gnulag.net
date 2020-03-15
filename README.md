@@ -91,7 +91,7 @@ You'll have to host it somewhere, and share a public link.
 We have two services hosted by community members:
 
 * [thecum.zone](https://thecum.zone)
-* ~~[p.gnulag.net](https://p.gnulag.net)~~
+* [p.gnulag.net](https://p.gnulag.net)
 * [WaifuPaste](https://waifupaste.moe)
 
 or use public services like:
@@ -120,7 +120,7 @@ No. Its #lmr with porn, commies and non-whites, ~~minus the [m]atrix lurkers.~~ 
 
 ### How is this related to #redoxmasterrace ?
 
-Designated dumpster for reserved for neophiles.
+Designated dumpster reserved for neophiles.
 
 ### What is #69
 
@@ -130,7 +130,7 @@ It is a channel funded by our government. It's manufactured opposition, a honeyp
 
 Here's [the entire list of gonzobot commands](https://snoonet.org/gonzobot).
 
-We can run a n2n supernode for p2p connections. It's not running 24/7. [Instruction](https://github.com/ntop/n2n) on how to install the client (edge node), then connect with
+We run a n2n supernode for p2p connections. [Instruction](https://github.com/ntop/n2n) on how to install the client (edge node), then connect with
 ```
 sudo edge -d n2n0 -c gnulag \
     -k <insert secret password here> \
@@ -164,7 +164,7 @@ You will need to reconnect on map change
 * **pta2002**: Idiot kid. Actually a genius. Plays plastic guitar, ~~but would love to play actual guitar~~ **UPDATE**: plays actual guitar too. Likes BSPWM, Fedora, and allegedly codes in Go in his spare time, only to complain about it afterwards. Has a crush on Link, ~~no~~ ~~full~~ half homo.
 * **AB49K**: Programs in an obsolete python version in the land down under, lives in shipping container. Has cute doggos. Will die of liver failure at age 30. Thongs wogs.
 * **audron**: Master of containers. Hosts a bunch of shit that constantly breaks.  
-  Somehow attracts segfaults.
+  Somehow attracts segfaults. Person to anoying if anything breaks down.
 * **A_Dragon**: Resident nazi mod. Eats babies. Surprisingly good guy. Other resident furry. Ask him what his name stands for.
 * **iownall555**: IDK how this guy is network staff but I'm glad he is, wishes he was British. **>Being a Britbong in $CURRENT_YEAR** Also thongs wogs with AB49K in the land down under while preaching the good word of Richard M. Stallman, our GNU/Lord and Savior.
 * **MrNeon**: Resident commie. Sleeps with his socks on. May or may not use actual neon lights as dildoes. Connoisseur of incest porn.
@@ -186,7 +186,7 @@ You will need to reconnect on map change
 * **IndyJoenz** Currently away, not doing l33t h4x. Ascii artist.
 
 ## Bots
-* **DukeTogo**: Best not to talk to it. If provoked, it will BTFO you in microseconds. Says **AndroitKitKat** is gay and seems not to know  about **browndawg**.
+* **DukeTogo**: Best not to talk to it. If provoked, it will BTFO you in microseconds. Says **AndroitKitKat** is gay and seems not to know about **browndawg**.
 * **gonzobot**: Snoonet's cloudbot instance. All of its functions that rely on external APIs are broken.
 * **Tess**: **Protheus**'s bot. Used on his servers, he uses #gnulag as beta testers.
 * **CYBERDUNCE**: Currently in the state of being an RSS feed reader. Regulars bullied it to oblivion, resulting in constant e-depression.
