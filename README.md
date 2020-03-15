@@ -8,8 +8,7 @@ GNU/Lag doesn't have many rules you'd have to explicitly state. Don't be a dick,
 
 * No CP (we'll report you to every three letter agency in existence).
 * **NSFW** content need not be marked. Please mark gore and such as **NSFL**.
-* No lurking.
-* No non-creative spam.
+* No lurking - you should spend time in channel regularly. In practice, this means that if you're 24/7 logged in, then at least every two weeks, you have to do some non-fake activity. This is to avoid people making local logs without adding anything to the channel. Compare and contrast [m]atrix lurker policy.
 * Don't post logs anywhere.
 * Don't sneeze whilst getting fingered.
 * No piracy or shady shit (`.torrent` or `.onion`). Network rules, don't look at us. You can talk about these things, but no links.
@@ -18,13 +17,10 @@ GNU/Lag doesn't have many rules you'd have to explicitly state. Don't be a dick,
 
 * [Webchat](https://tknk.io/A5YW)
 * [Telegram](https://t.me/gnulag)
-* [Mastodon](https://nihilist.space)
 * [Discord](http://discord.me/gnulag)
 * [Stats](https://gnulag.stats.c8h10n4o2.xyz/)
 * [Reddit](https://old.reddit.com/r/gnulag)
 * [GitHub](https://github.com/gnulag)
-* [File Sharing](https://thecum.zone/)
-* [More File Sharing](https://p.gnulag.net)
 * [Link](https://d3ieicw58ybon5.cloudfront.net/ex/350.350/shop/product/d16f82bc07374717bfece1cdba56d8b8.jpg)
 * [Official Channel Accessories](https://www.digitalmusicnews.com/wp-content/uploads/2016/09/airpodaccessory.jpg)
 
@@ -32,7 +28,7 @@ GNU/Lag doesn't have many rules you'd have to explicitly state. Don't be a dick,
 
 While the channel was mostly founded by members of another **Linux** channel, **#gnulag** is a general programming + sysadmin channel. You'll find a wide range of topics being discussed, including, but not limited to:
 
-* Anything other than Linux.
+* Anything other than Linux
 * Communism, Capitalism, Anarcho-syndicorporalicapitalisticimperialism within closed communal tribes.
 * Music / Books / Movies / Anime / TV.
 * Drugs.
@@ -64,6 +60,7 @@ While the channel was mostly founded by members of another **Linux** channel, **
 * **TinyTimmyTokyo** for Gantoo Lunix help or tips.
 * **Lucifer** | **The Antichrist** | **The Prince of Lies**
 * **Anyone on the Suckless mailing list**
+* **belzurix**
 
 In that order.
 
@@ -82,6 +79,7 @@ https://snoonet.org/anope#NickServ.
 * Get a [Snoonet BNC](https://snoonet.org/bnc) account (if you don't already have one),  
   or set up a [Quassel Core](https://quassel-irc.org/) somewhere.
 * Alternatively, ping **crystalmett** or **browndawg** for an account on their server.
+* If you've been to Snoonet for more than a month, they have their own bouncer.
 
 ### Can I ask for programming / unix help?
 
@@ -94,27 +92,45 @@ We have two services hosted by community members:
 
 * [thecum.zone](https://thecum.zone)
 * ~~[p.gnulag.net](https://p.gnulag.net)~~
+* [WaifuPaste](https://waifupaste.moe)
 
 or use public services like:
 
 * [Imgur](https://imgur.com)
 * [Teknik](https://teknik.io)
 * [TransferSH](https://transfer.sh)
+* [Uguu](https://uguu.se)
+* [0x0](https://0x0.st)
+* [DPaste](https://dpaste.com)
+
+Please note that DCC is disabled on Snoonet.
 
 For code or any arbitrary text really [github gist](https://gist.github.com/) is a good choice.
 
 There are scripts and tools that can automate this for you. Ask on the channel.
 
+Don't be surprised if nobody wants to open a .tar.xz file of yours. [Read more on zip bombs](https://en.wikipedia.org/wiki/Zip_bomb).
+
+## History
+
 ### Is this just #linuxmasterrace with porn?
 
-No. Its #lmr with porn and commies, ~~minus the [m]atrix lurkers.~~ (PURGED)  
-**Not affiliated with the subreddit / channel.**.
+No. Its #lmr with porn, commies and non-whites, ~~minus the [m]atrix lurkers.~~ (PURGED)  
+**Not affiliated with the subreddit / channel.**, many regulars show up in both chanels, though. This created border conflicts which later escalated into a full-scale war. #gnulag won the war without losing a single battle.
+
+### How is this related to #redoxmasterrace ?
+
+Designated dumpster for reserved for neophiles.
+
+### What is #69
+
+It is a channel funded by our government. It's manufactured opposition, a honeypot for dissidents.
 
 ## Bots & Games
 
 Here's [the entire list of gonzobot commands](https://snoonet.org/gonzobot).
 
-We are running a n2n supernode for p2p connections. Refer to [here](https://github.com/ntop/n2n) for instruction on how to install the client (edge node), then connect with 
+We can run a n2n supernode for p2p connections. It's not running 24/7. [Instruction](https://github.com/ntop/n2n) on how to install the client (edge node), then connect with
 ```
 sudo edge -d n2n0 -c gnulag \
     -k <insert secret password here> \
@@ -140,7 +156,7 @@ You will need to reconnect on map change
   Is as straight as he is white, and he's white AF.(LIES (allegedly)).
 * **ix**: Resident weeb and audiophile, doesn't like any guitar that isn't a telecaster.  
   Patron of the occult. Not to be bullied.
-* **xi**: Author of our bot (vini). In a toxic relationship with baguettes. FreeBSD shill. Fuchsia shill. Writes segfaults in C that only compile on **FreeBSD**.
+* **xi**: Author of our bot (vini). In a toxic relationship with baguettes. FreeBSD shill. Fuchsia shill. Writes segfaults in C that only compile on **FreeBSD** UPDATE: has committed the NodeJS heresy. Now his bot, jesi, works on linux, too.
 * **Zowlyfon**: Resident chad, lifts. Haskell Shill. In a sexual relationship with his headphones.
 * **whiteph**: Plays Guitar. Really good at physics.
 * **RadiantBastard**: His job is to remove kebab and add chaos. Uses macOS like a fuccboi.
@@ -159,7 +175,7 @@ You will need to reconnect on map change
 * **justJanne**: Genius. Never forgets a thing she reads. Resident data collection agency.
 * **crystalmett**: Turn-ons: OPSEC Turn-offs: [TRIPLE REDACTED AND BURNED FOR GOOD MEASURE]
 * **digitalDiplomat**: Goes out of his way to avoid conflict. Currently a Manjaro user because Arch is overrated. Is trying to popularize the **.gvy** file extension because **.groovy** is irritatingly long.
-* **belzurix**: Resident changeling. Communist sleeper cell (watch out for redzurix). Wishes to establish GNUSSR. Master of getting hw for free, suffers when needs to pay for something.
+* **belzurix**: 𓂸 Resident changeling. **☭** sleeper cell. Wishes to establish GNUSSR. Master of getting hw for free, suffers when something costs >0.001$.
 * **Rolfe**: Farm fresh Idaho potato. Waifu supplier. Insists her stuffed toy collection doesn't come alive when you're asleep. Dabbles in rule34 involving extra long moustaches.
 
 ## Regulars Emeritus :(
@@ -167,9 +183,15 @@ You will need to reconnect on map change
 * **Crocodillian**: Resident weed smoker. Is into good music. Codes C (allegedly). Also has a history of Perl programming (which he regrets). Owns 420 core workstation that everyone's jealous of.
 * **Jennifer-Lawrence**: Actually a black man from rural Alabama. Would like to be an anime girl.  
   Has 10 terabytes of encrypted hentai on his university's Google Drive. Only actually appeared to fucc ducks and bang dicks.
+* **IndyJoenz** Currently away, not doing l33t h4x. Ascii artist.
 
+## Bots
+* **DukeTogo**: Best not to talk to it. If provoked, it will BTFO you in microseconds. Says **AndroitKitKat** is gay and seems not to know  about **browndawg**.
+* **gonzobot**: Snoonet's cloudbot instance. All of its functions that rely on external APIs are broken.
+* **Tess**: **Protheus**'s bot. Used on his servers, he uses #gnulag as beta testers.
+* **CYBERDUNCE**: Currently in the state of being an RSS feed reader. Regulars bullied it to oblivion, resulting in constant e-depression.
 
-If you're regular, PM **browndawg** to get your name and description on here,  
+If you're regular, PM **browndawg** or **audron** to get your name and description on here,  
 or send a PR to [our github repo](https://github.com/gnulag/gnulag.net)
 
 ---
