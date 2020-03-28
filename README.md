@@ -159,7 +159,7 @@ You will need to reconnect on map change
 * **xi**: Author of our bot (vini). In a toxic relationship with baguettes. FreeBSD shill. Fuchsia shill. Writes segfaults in C that only compile on **FreeBSD** UPDATE: has committed the NodeJS heresy. Now his bot, jesi, works on linux, too.
 * **Zowlyfon**: Resident chad, lifts. Haskell Shill. In a sexual relationship with his headphones.
 * **whiteph**: Plays Guitar. Really good at physics.
-* **RadiantBastard**: His job is to remove kebab and add chaos. Uses macOS like a fuccboi.
+* **RadiantBastard**: His job is to remove kebab and add chaos. Uses macOS like a fuccboi. Resident memeposter. Bringer of all news.
 * **AndroidKitKat**:ウィーブ, Pretends to understand Japanese, actually kinda understands japanese, wants to live in japan someday, dont fuck with my bio you morons, Resident weeb and connoisseur of all anime. Other resident fuccboi (seriously, MacOS bad). Possibly owns anal beads, freeballs it every once in a while, wants the longest bio to assert dominance over the other virgin bios, would also occasionally not turn down the notion of being a cute anime girl
 * **pta2002**: Idiot kid. Actually a genius. Plays plastic guitar, ~~but would love to play actual guitar~~ **UPDATE**: plays actual guitar too. Likes BSPWM, Fedora, and allegedly codes in Go in his spare time, only to complain about it afterwards. Has a crush on Link, ~~no~~ ~~full~~ half homo.
 * **AB49K**: Programs in an obsolete python version in the land down under, lives in shipping container. Has cute doggos. Will die of liver failure at age 30. Thongs wogs.
@@ -175,8 +175,10 @@ You will need to reconnect on map change
 * **justJanne**: Genius. Never forgets a thing she reads. Resident data collection agency.
 * **crystalmett**: Turn-ons: OPSEC Turn-offs: [TRIPLE REDACTED AND BURNED FOR GOOD MEASURE]
 * **digitalDiplomat**: Goes out of his way to avoid conflict. Currently a Manjaro user because Arch is overrated. Is trying to popularize the **.gvy** file extension because **.groovy** is irritatingly long.
-* **belzurix**: 𓂸 Resident changeling. **☭** sleeper cell. Wishes to establish GNUSSR. Master of getting hw for free, suffers when something costs >0.001$.
+* **belzurix**: Comrade general. Has the irc equivalent of nuclear weapons. 𓂸 Resident changeling. **☭** sleeper cell. Wishes to establish GNUSSR. Suffers when something costs >0.001$.
 * **Rolfe**: Farm fresh Idaho potato. Waifu supplier. Insists her stuffed toy collection doesn't come alive when you're asleep. Dabbles in rule34 involving extra long moustaches.
+* **random-nick**: Impossible to annoy, resident Common Lisp shill. Rekts any other lisp dialect that appears in the dicussion.
+* **theluke**: Member[^1] of the suprisingly large wog population on gnulag. Claims his brane is too small to learn anything other than vim. Edgy af.
 
 ## Regulars Emeritus :(
 
@@ -189,10 +191,12 @@ You will need to reconnect on map change
 * **DukeTogo**: Best not to talk to it. If provoked, it will BTFO you in microseconds. Says **AndroitKitKat** is gay and seems not to know about **browndawg**.
 * **gonzobot**: Snoonet's cloudbot instance. All of its functions that rely on external APIs are broken.
 * **Tess**: **Protheus**'s bot. Used on his servers, he uses #gnulag as beta testers.
-* **CYBERDUNCE**: Currently in the state of being an RSS feed reader. Regulars bullied it to oblivion, resulting in constant e-depression.
+* **CYBERDUNCE**: AI-core re-enabled. Shitposts constantly. Regulars bullied it to oblivion, resulting in constant e-depression.
 
 If you're regular, PM **browndawg** or **audron** to get your name and description on here,  
 or send a PR to [our github repo](https://github.com/gnulag/gnulag.net)
+
+[^1]: Dick
 
 ---
 © 2020 browndawg et al
