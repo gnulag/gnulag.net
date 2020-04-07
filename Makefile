@@ -4,7 +4,7 @@ build: dist
 dist: dist/index.html dist/style.css dist/img dist/robots.txt
 
 dist/index.html:
-	pandoc -f gfm -t html --template src/template.html --section-divs README.md --metadata="title:GNU/Lag" -o dist/index.html
+	pandoc -f markdown -t html --template src/template.html --section-divs README.md --metadata="title:GNU/Lag" -o dist/index.html
 	perl -i -p0e 's/<header>.*?<\/header>//gs' dist/index.html
 	perl -i -p0e 's/<section id="[A-Za-z0-9\-]*?" class="level3">(.*?)<\/section>/\1/gs' dist/index.html
 	perl -i -p0e 's/<section id="[A-Za-z0-9\-]*?" class="level2">(.*?)<h2>(.*?)<\/h2>(.*?)<\/section>/<div class="row"><div class="col"><div class="card bg-dark"><div class="card-header">\2<\/div><div class="card-body">\3<\/div><\/div><\/div><\/div>/gs' dist/index.html

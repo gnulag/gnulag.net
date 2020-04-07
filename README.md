@@ -11,13 +11,10 @@ GNU/Lag doesn't have many rules you'd have to explicitly state. Don't be a dick,
 * No lurking - you should spend time in channel regularly. In practice, this means that if you're 24/7 logged in, then at least every two weeks, you have to do some non-fake activity. This is to avoid people making local logs without adding anything to the channel. Compare and contrast [m]atrix lurker policy.
 * Don't post logs anywhere.
 * Don't sneeze whilst getting fingered.
-* No piracy or shady shit (`.torrent` or `.onion`). Network rules, don't look at us. You can talk about these things, but no links.
 
 ## Links
 
 * [Webchat](https://tknk.io/A5YW)
-* [Telegram](https://t.me/gnulag)
-* [Discord](http://discord.me/gnulag)
 * [Stats](https://gnulag.stats.c8h10n4o2.xyz/)
 * [Reddit](https://old.reddit.com/r/gnulag)
 * [GitHub](https://github.com/gnulag)
@@ -33,9 +30,10 @@ While the channel was mostly founded by members of another **Linux** channel, **
 * Music / Books / Movies / Anime / TV.
 * Drugs.
 * Kill all Humans.
+* Indians being indians and hungarians being hungarians
 * Computer Science and Programming.
 * Zygohistomorphic prepromorphisms.
-* Poor career decisions (ask **whiteph**, **cheers** and **belzurix**).
+* Poor career decisions (ask **whiteph** or **belzurix**).
 * Bad Dragons (actually, dildos of all shapes and sizes).
 * Definitions of controversial words.
 * Religion, and the occult.
@@ -58,9 +56,8 @@ While the channel was mostly founded by members of another **Linux** channel, **
 * **AWindowsKrill** | **Volkor**
 * **MrNeon**
 * **TinyTimmyTokyo** for Gantoo Lunix help or tips.
-* **Lucifer** | **The Antichrist** | **The Prince of Lies**
-* **Anyone on the Suckless mailing list**
 * **belzurix**
+* **Anyone on the Suckless mailing list**
 
 In that order.
 
@@ -168,13 +165,11 @@ You will need to reconnect on map change
 * **A_Dragon**: Resident nazi mod. Eats babies. Surprisingly good guy. Other resident furry. Ask him what his name stands for.
 * **iownall555**: IDK how this guy is network staff but I'm glad he is, wishes he was British. **>Being a Britbong in $CURRENT_YEAR** Also thongs wogs with AB49K in the land down under while preaching the good word of Richard M. Stallman, our GNU/Lord and Savior.
 * **MrNeon**: Resident commie. Sleeps with his socks on. May or may not use actual neon lights as dildoes. Connoisseur of incest porn.
-* **cheers**: Sure is :( a lot for a cheerful guy. Accelerationist. Probably responsible for global warming (GOD DAMN IT CHEERS).
 * **catbottom**: Resident chink. Loyalty in question. Seen more in #lmr than #gnulag. Thinks your doggo is a snacc.
 * **TinyTimmyTokyo**: Resident gayboye, Gantoo Lunix nerd, and eternally sleepless lurker. (Allegedly) is somewhat good at coding in C++ and Shell. Has Golden Retriever doggo but likes cats (don't ask why). Chaotic evil regexer. Also resident furry. Into transformation porn.
 * **za**: Depressed Arch Linux boye, is weirdly into keyboards, and anime tiddies. He pretends to be an audiophile, and vapes.
 * **justJanne**: Genius. Never forgets a thing she reads. Resident data collection agency.
 * **crystalmett**: Turn-ons: OPSEC Turn-offs: [TRIPLE REDACTED AND BURNED FOR GOOD MEASURE]
-* **digitalDiplomat**: Goes out of his way to avoid conflict. Currently a Manjaro user because Arch is overrated. Is trying to popularize the **.gvy** file extension because **.groovy** is irritatingly long.
 * **belzurix**: Comrade general. Has the irc equivalent of nuclear weapons. 𓂸 Resident changeling. **☭** sleeper cell. Wishes to establish GNUSSR. Suffers when something costs >0.001$.
 * **Rolfe**: Farm fresh Idaho potato. Waifu supplier. Insists her stuffed toy collection doesn't come alive when you're asleep. Dabbles in rule34 involving extra long moustaches.
 * **random-nick**: Impossible to annoy, resident Common Lisp shill. Rekts any other lisp dialect that appears in the dicussion.
@@ -186,6 +181,8 @@ You will need to reconnect on map change
 * **Jennifer-Lawrence**: Actually a black man from rural Alabama. Would like to be an anime girl.  
   Has 10 terabytes of encrypted hentai on his university's Google Drive. Only actually appeared to fucc ducks and bang dicks.
 * **IndyJoenz** Currently away, not doing l33t h4x. Ascii artist.
+* **digitalDiplomat**: Goes out of his way to avoid conflict. Currently a Manjaro user because Arch is overrated. Is trying to popularize the **.gvy** file extension because **.groovy** is irritatingly long.
+* **cheers**: Accelerationist. Responsible for global warming. Defected to #redoxmasterrace **> giving in to memes**
 
 ## Bots
 * **DukeTogo**: Best not to talk to it. If provoked, it will BTFO you in microseconds. Says **AndroitKitKat** is gay and seems not to know about **browndawg**.
