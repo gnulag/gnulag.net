@@ -40,7 +40,7 @@ While the channel was mostly founded by members of another **Linux** channel, **
 * Definitions of controversial words.
 * Religion, and the occult.
 * Life size Lennart Poettering cutouts with a hole where the mouth is supposed to be.
-* LGBQIA stuff, porn, and sexuality in general.
+* LGBTQIA+ stuff, porn, and sexuality in general.
 * The existential threat of frontend web development.
 * The UNIX philosophy and ~~how modern development is taking a giant shit on it~~ how good Lennart looks in plaid.
 * Definitely not talking about inline skating.
