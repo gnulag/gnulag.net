@@ -117,7 +117,7 @@ No. Its #lmr with porn, commies and non-whites, ~~minus the [m]atrix lurkers.~~ 
 
 ### How is this related to #redoxmasterrace ?
 
-Designated dumpster reserved for neophiles.
+We're temporarely allied with them against the vile necromancers who are trying to make an army from the rotting corpse that #linuxmasterrace is.
 
 ### What is #69
 
