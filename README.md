@@ -173,7 +173,6 @@ You will need to reconnect on map change
 * **belzurix**: Comrade general. Has the irc equivalent of nuclear weapons. 𓂸 Resident changeling. **☭** sleeper cell. Wishes to establish GNUSSR. Suffers when something costs >0.001$.
 * **Rolfe**: Farm fresh Idaho potato. Waifu supplier. Insists her stuffed toy collection doesn't come alive when you're asleep. Dabbles in rule34 involving extra long moustaches.
 * **random-nick**: Impossible to annoy, resident Common Lisp shill. Rekts any other lisp dialect that appears in the dicussion.
-* **theluke**: Member[^1] of the suprisingly large wog population on gnulag. Claims his brane is too small to learn anything other than vim. Edgy af.
 
 ## Regulars Emeritus :(
 
@@ -183,6 +182,7 @@ You will need to reconnect on map change
 * **IndyJoenz** Currently away, not doing l33t h4x. Ascii artist.
 * **digitalDiplomat**: Goes out of his way to avoid conflict. Currently a Manjaro user because Arch is overrated. Is trying to popularize the **.gvy** file extension because **.groovy** is irritatingly long.
 * **cheers**: Accelerationist. Responsible for global warming. Defected to #redoxmasterrace **> giving in to memes**
+* **theluke**: Member[^1] of the suprisingly large wog population on gnulag. Claims his brane is too small to learn anything other than vim. Edgy af.
 
 ## Bots
 * **DukeTogo**: Best not to talk to it. If provoked, it will BTFO you in microseconds. Says **AndroitKitKat** is gay and seems not to know about **browndawg**.
