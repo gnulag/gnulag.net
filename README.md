@@ -173,7 +173,7 @@ You will need to reconnect on map change
 * **belzurix**: Comrade general. Has the irc equivalent of nuclear weapons. 𓂸 Resident changeling. **☭** sleeper cell. Wishes to establish GNUSSR. Suffers when something costs >0.001$.
 * **Rolfe**: Farm fresh Idaho potato. Waifu supplier. Insists her stuffed toy collection doesn't come alive when you're asleep. Dabbles in rule34 involving extra long moustaches.
 * **random-nick**: Impossible to annoy, resident Common Lisp shill. Rekts any other lisp dialect that appears in the dicussion.
-
+* **Romanson**: Not roman, but son. Somewhere in a shitty 3rd world cuntry. Been bitching about not having a bio while being a bio student. The absolute botman.
 ## Regulars Emeritus :(
 
 * **Crocodillian**: Resident weed smoker. Is into good music. Codes C (allegedly). Also has a history of Perl programming (which he regrets). Owns 420 core workstation that everyone's jealous of.
