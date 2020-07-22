@@ -85,7 +85,7 @@ Yes. We're not an official help channel, but regulars will often help you out wi
 ### How do I share images / files / text on IRC?
 
 You'll have to host it somewhere, and share a public link.  
-We have two services hosted by community members:
+We have three services hosted by community members:
 
 * [thecum.zone](https://thecum.zone)
 * [p.gnulag.net](https://p.gnulag.net)
