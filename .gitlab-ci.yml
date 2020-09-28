@@ -6,7 +6,10 @@ variables:
 
 stages:
   - build
+  - test
   - deploy  # dummy stage to follow the template guidelines
+  - review
+  - dast
   - staging
   - canary
   - production
@@ -14,6 +17,7 @@ stages:
   - incremental rollout 25%
   - incremental rollout 50%
   - incremental rollout 100%
+  - performance
   - cleanup
 
 include:
