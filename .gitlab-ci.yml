@@ -1,28 +1,12 @@
-image: alpine:latest
-
 variables:
-  # KUBE_INGRESS_BASE_DOMAIN is the application deployment domain and should be set as a variable at the group or project level.
   KUBE_INGRESS_BASE_DOMAIN: gnulag.net
-
-  KUBERNETES_VERSION: 1.14.3
-  HELM_VERSION: 2.14.2
-
-  POSTGRES_USER: user
-  POSTGRES_PASSWORD: testing-password
   POSTGRES_ENABLED: "false"
-  POSTGRES_DB: $CI_ENVIRONMENT_SLUG
-  POSTGRES_VERSION: 9.6.2
-
   ROLLOUT_RESOURCE_TYPE: deployment
-
   REPLICAS: 4
 
 stages:
   - build
-  - test
   - deploy  # dummy stage to follow the template guidelines
-  - review
-  - dast
   - staging
   - canary
   - production
@@ -30,18 +14,11 @@ stages:
   - incremental rollout 25%
   - incremental rollout 50%
   - incremental rollout 100%
-  - performance
   - cleanup
 
 include:
-  - project: 'cocainefarm/templates/ci'
-    file: '/Build.gitlab-ci.yaml'
+  - template: Jobs/Build.gitlab-ci.yml
   - template: Jobs/Deploy.gitlab-ci.yml
-  - template: Security/Container-Scanning.gitlab-ci.yml
-  - template: Security/Dependency-Scanning.gitlab-ci.yml
-
-.auto-deploy:
-  image: "registry.gitlab.com/cocainefarm/templates/auto-deploy-image/master:acb0922ad53e5505bfac21dfc632d7d700a56030"
 
 production:
   environment:
