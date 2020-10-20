@@ -1,7 +1,7 @@
 
 build: dist
 
-dist: dist/index.html dist/style.css dist/img dist/robots.txt
+dist: dist/index.html dist/tuxiee-in-remembrance.html dist/style.css dist/img dist/robots.txt
 
 dist/index.html: src/template.html README.md
 	pandoc -f markdown -t html --template src/template.html --section-divs README.md --metadata="title:GNU/Lag" -o dist/index.html
@@ -12,7 +12,7 @@ dist/index.html: src/template.html README.md
 	perl -i -p0e 's/<p><img src="(.*?)" alt="(.*?)" \/><\/p>/<img class="mx-auto d-block img-fluid" src="\1" alt="\2" \/>/gs' dist/index.html
 	perl -i -p0e 's/(<hr \/>\n<p>© 2019 browndawg et al<\/p>\n)(<\/div><\/div><\/div><\/div>)/\2\1/gs' dist/index.html
 
-dist/index.html: src/template.html tuxiee-in-remembrance.md
+dist/tuxiee-in-remembrance.html: src/template.html tuxiee-in-remembrance.md
 	pandoc -f markdown -t html --template src/template.html --section-divs tuxiee-in-remembrance.md --metadata="title:GNU/Lag" -o dist/tuxiee-in-remembrance.html
 	perl -i -p0e 's/<header>.*?<\/header>//gs' dist/tuxiee-in-remembrance.html
 	perl -i -p0e 's/<section id="[A-Za-z0-9\-]*?" class="level3">(.*?)<\/section>/\1/gs' dist/tuxiee-in-remembrance.html
