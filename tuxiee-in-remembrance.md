@@ -70,8 +70,8 @@ Resources for LGBTQI people and those suffering from suicidal thoughts:
 - Trans Lifeline: [https://translifeline.org/](https://translifeline.org/) [+1 877 330 6366](tel:+18773306366)
 - The Trevor Project: [https://www.thetrevorproject.org/](https://www.thetrevorproject.org/)  [+1 866 488 7386](tel:+18664887386)
 - National Suicide Prevention Hotline: [https://suicidepreventionlifeline.org/](https://suicidepreventionlifeline.org/) [+1 800 273 8255](tel:+18002738255)
-- Kids Help Phone: [https://kidshelpphone.ca/](https://kidshelpphone.ca/) [+1 800 668 6868](tel:+18006686868) txt: [686868](sms://686868)
-- Crisis Services Canada: [https://www.crisisservicescanada.ca/](https://www.crisisservicescanada.ca/) [+1 833 456 4566](tel:+18334564566) txt: [45645](sms://45645)
+- Kids Help Phone: [https://kidshelpphone.ca/](https://kidshelpphone.ca/) [+1 800 668 6868](tel:+18006686868) sms: [686868](sms://686868?&&body=CONNECT)
+- Crisis Services Canada: [https://www.crisisservicescanada.ca/](https://www.crisisservicescanada.ca/) [+1 833 456 4566](tel:+18334564566) sms: [45645](sms://+45645?body=I%27m%20thinking%20about%20suicide.%20Please%20help%20me.)
 
 ### UK
 
@@ -84,7 +84,7 @@ Resources for LGBTQI people and those suffering from suicidal thoughts:
 ### Australia
 
 - BeyondBlue: [https://www.beyondblue.org.au/](https://www.beyondblue.org.au/) [+61 1300 22 4636](tel:+611300224636)
-- Lifeline: [https://www.lifeline.org.au/](https://www.lifeline.org.au/) [+61 13 11 14](tel:+61131114)
+- Lifeline: [https://www.lifeline.org.au/](https://www.lifeline.org.au/) [+61 13 11 14](tel:+61131114) sns: [0477131114](sms:0477131114)
 - Kids Helpline: (up to 25yo): [https://kidshelpline.com.au/](https://kidshelpline.com.au/) [+61 1800 55 1800](tel:+611800551800)
 - QLife: [https://qlife.org.au/](https://qlife.org.au/) [+61 1800 18 4527](tel:+611800184527)
 - Suicide Callback Service: [https://www.suicidecallbackservice.org.au/](https://www.suicidecallbackservice.org.au/)  [+61 1300 65 9467](tel:+611300659467)
