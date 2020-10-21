@@ -58,6 +58,8 @@ always check in to see how I was doing. Thank you and I will always miss you. Ho
 
 **[Duck]:** Though I regret not getting to talk to her much myself, I can tell you that she brightened the lives of many chatters across Snoonet. People were happy to see her join in on chats and talk with them. She had lots in common with everyone and never seemed to turn down an opportunity to get involved. On behalf of Snoonet IRC, I offer my sincerest condolences to Tuxiee's family, as well as our members whom have been affected by this loss. May you rest in peace, Taylor.
 
+**[cheers]:** I remember her talking to me about her stage one Gentoo install when I first joined Snoonet. Thought that was the coolest stuff ever. You'll be sorely missed.
+
 ## Resources
 
 Resources for LGBTQI people and those suffering from suicidal thoughts:
