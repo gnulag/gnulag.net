@@ -184,6 +184,7 @@ You will need to reconnect on map change
 * **digitalDiplomat**: Goes out of his way to avoid conflict. Currently a Manjaro user because Arch is overrated. Is trying to popularize the **.gvy** file extension because **.groovy** is irritatingly long.
 * **cheers**: Accelerationist. Responsible for global warming. Defected to #redoxmasterrace **> giving in to memes**
 * **theluke**: Member[^1] of the suprisingly large wog population on gnulag. Claims his brane is too small to learn anything other than vim. Edgy af.
+* **Tuxiee**: † [In Memoriam](https://gnulag.net/tuxiee-in-remembrance.html)
 
 ## Bots
 * **DukeTogo**: Best not to talk to it. If provoked, it will BTFO you in microseconds. Says **AndroitKitKat** is gay and seems not to know about **browndawg**.
