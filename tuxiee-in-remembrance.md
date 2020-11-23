@@ -1,6 +1,6 @@
 # In Remembrance: Taylor
 *formerly Hayley, aka Tuxiee*  
-*$BIRTHDATE to October 15, 2020*
+*September 23, 1997 to October 15, 2020*
 
 
 ## In Remembrance
