@@ -145,7 +145,7 @@ open the console with `~` and type `connect cocaine.farm:26000`.
 You will need to reconnect on map change
 
 ## GNULag
-![gnulag](./img/de7a5ea1a6.png)
+![](./img/de7a5ea1a6.png)
 
 ## Regulars
 

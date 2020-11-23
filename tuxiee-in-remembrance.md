@@ -1,9 +1,10 @@
 # In Remembrance: Taylor
-*formerly Hayley, aka Tuxiee*  
-*September 23, 1997 to October 15, 2020*
 
+_formerly Hayley, aka Tuxiee_  
+_September 23, 1997 to October 15, 2020_
 
 ## In Remembrance
+
 It is with great sadness that GNUlag member Tuxiee passed away on Thursday the 15th of October 2020 after a life-long struggle with dysphoria and acceptance of her transgender identity. Tuxiee was an intelligent and creative young woman with a passion for electronics, computers and cars. She will be greatly missed by her family as well as her friends in Snoonet's #gnulag, #linuxmasterrace and ##transgender channels.
 
 ## Farewell Notes
@@ -48,7 +49,7 @@ always check in to see how I was doing. Thank you and I will always miss you. Ho
 
 **[pta2002]:** I always was happy to see you were on. I'll miss you.
 
-**[Totori]:**  Hayley, you deserved better. I'm sorry you didn't get it. I hope you've felt you found peace. I will fondly remember talking about cars, computers, and life with you. You were a bright wonderful person. I'll miss you.
+**[Totori]:** Hayley, you deserved better. I'm sorry you didn't get it. I hope you've felt you found peace. I will fondly remember talking about cars, computers, and life with you. You were a bright wonderful person. I'll miss you.
 
 **[belzurix]:** Hope you will find your peace.
 
@@ -60,6 +61,10 @@ always check in to see how I was doing. Thank you and I will always miss you. Ho
 
 **[cheers]:** I remember her talking to me about her stage one Gentoo install when I first joined Snoonet. Thought that was the coolest stuff ever. You'll be sorely missed.
 
+**[Camille]:** For the short time that Taylor and I were friends, she was one of my best. I loved hearing about her cool racecars and her tinkering with Linux, and she loved hearing about my rants about stupid people I knew irl. When we weren't constantly texting, we were playing Minecraft or TF2. When she was doing well, she was such a happy person and so fun to be around. She will be sorely missed.
+
+![](./img/D549han.png)
+
 ## Resources
 
 Resources for LGBTQI people and those suffering from suicidal thoughts:
@@ -70,7 +75,7 @@ Resources for LGBTQI people and those suffering from suicidal thoughts:
 ### US and Canada
 
 - Trans Lifeline: [https://translifeline.org/](https://translifeline.org/) [+1 877 330 6366](tel:+18773306366)
-- The Trevor Project: [https://www.thetrevorproject.org/](https://www.thetrevorproject.org/)  [+1 866 488 7386](tel:+18664887386)
+- The Trevor Project: [https://www.thetrevorproject.org/](https://www.thetrevorproject.org/) [+1 866 488 7386](tel:+18664887386)
 - National Suicide Prevention Hotline: [https://suicidepreventionlifeline.org/](https://suicidepreventionlifeline.org/) [+1 800 273 8255](tel:+18002738255)
 - Kids Help Phone: [https://kidshelpphone.ca/](https://kidshelpphone.ca/) [+1 800 668 6868](tel:+18006686868) sms: [686868](sms://686868?&&body=CONNECT)
 - Crisis Services Canada: [https://www.crisisservicescanada.ca/](https://www.crisisservicescanada.ca/) [+1 833 456 4566](tel:+18334564566) sms: [45645](sms://+45645?body=I%27m%20thinking%20about%20suicide.%20Please%20help%20me.)
@@ -89,7 +94,7 @@ Resources for LGBTQI people and those suffering from suicidal thoughts:
 - Lifeline: [https://www.lifeline.org.au/](https://www.lifeline.org.au/) [+61 13 11 14](tel:+61131114) sns: [0477131114](sms:0477131114)
 - Kids Helpline: (up to 25yo): [https://kidshelpline.com.au/](https://kidshelpline.com.au/) [+61 1800 55 1800](tel:+611800551800)
 - QLife: [https://qlife.org.au/](https://qlife.org.au/) [+61 1800 18 4527](tel:+611800184527)
-- Suicide Callback Service: [https://www.suicidecallbackservice.org.au/](https://www.suicidecallbackservice.org.au/)  [+61 1300 65 9467](tel:+611300659467)
+- Suicide Callback Service: [https://www.suicidecallbackservice.org.au/](https://www.suicidecallbackservice.org.au/) [+61 1300 65 9467](tel:+611300659467)
 
 ### Europe
 
@@ -97,6 +102,4 @@ Resources for LGBTQI people and those suffering from suicidal thoughts:
 
 ### India
 
-- Hello  LifeLine: [https://hellolifeline.org/](https://hellolifeline.org/) [+91 1800 121 3667](tel:+9118001213667)
-
-
+- Hello LifeLine: [https://hellolifeline.org/](https://hellolifeline.org/) [+91 1800 121 3667](tel:+9118001213667)
