@@ -174,6 +174,7 @@ You will need to reconnect on map change
 * **Rolfe**: Farm fresh Idaho potato. Waifu supplier. Insists her stuffed toy collection doesn't come alive when you're asleep. Dabbles in rule34 involving extra long moustaches.
 * **random-nick**: Impossible to annoy, resident Common Lisp shill. Rekts any other lisp dialect that appears in the dicussion.
 * **Romanson**: Not roman, but son. Somewhere in a shitty 3rd world cuntry. Been bitching about not having a bio while being a bio student. The absolute botman.
+* **lanosz**: Resident germ, only sane slav in the entire channel. Catbottom wont stop obsessing over him. Speaks proper interslavic and is too dumb for most stuff.
 
 ## Regulars Emeritus :(
 
