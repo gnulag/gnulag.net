@@ -21,7 +21,7 @@ dist/tuxiee-in-remembrance.html: src/template.html tuxiee-in-remembrance.md
 	perl -i -p0e 's/<p><img src="(.*?)" \/><\/p>/<img class="mx-auto d-block img-fluid" src="\1" \/>/gs' dist/tuxiee-in-remembrance.html
 	perl -i -p0e 's/(<hr \/>\n<p>© 2019 browndawg et al<\/p>\n)(<\/div><\/div><\/div><\/div>)/\2\1/gs' dist/tuxiee-in-remembrance.html
 
-dist/aoc.html: src/template.html aoc-2020.md
+dist/aoc-2020.html: src/template.html aoc-2020.md
 	pandoc -f markdown -t html --template src/template.html --section-divs aoc-2020.md --metadata="title:GNU/Lag" -o dist/aoc-2020.html
 	perl -i -p0e 's/<header>.*?<\/header>//gs' dist/aoc-2020.html
 	perl -i -p0e 's/<section id="[A-Za-z0-9\-]*?" class="level3">(.*?)<\/section>/\1/gs' dist/aoc-2020.html
