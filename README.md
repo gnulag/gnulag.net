@@ -175,13 +175,13 @@ You will need to reconnect on map change
 * **random-nick**: Impossible to annoy, resident Common Lisp shill. Rekts any other lisp dialect that appears in the dicussion.
 * **Romanson**: Not roman, but son. Somewhere in a shitty 3rd world cuntry. Been bitching about not having a bio while being a bio student. The absolute botman.
 * **lanosz**: Resident slavic slavaboo (cringe), actually the only sane person in the entire channel (source: lanosz). Bash scripting leviathan. Catbottom wont stop obsessing over him. Speaks proper interslavic but is generally too dumb for most stuff.
+* **IndyJoenz** Came back recently. Doing l33t h4x and ascii arts. Mascot of the channel, representing its spirit. Has DukeTogo as a bot.
 
 ## Regulars Emeritus :(
 
 * **Crocodillian**: Resident weed smoker. Is into good music. Codes C (allegedly). Also has a history of Perl programming (which he regrets). Owns 420 core workstation that everyone's jealous of.
 * **Jennifer-Lawrence**: Actually a black man from rural Alabama. Would like to be an anime girl.  
   Has 10 terabytes of encrypted hentai on his university's Google Drive. Only actually appeared to fucc ducks and bang dicks.
-* **IndyJoenz** Currently away, not doing l33t h4x. Ascii artist.
 * **digitalDiplomat**: Goes out of his way to avoid conflict. Currently a Manjaro user because Arch is overrated. Is trying to popularize the **.gvy** file extension because **.groovy** is irritatingly long.
 * **cheers**: Accelerationist. Responsible for global warming. Defected to #redoxmasterrace **> giving in to memes**
 * **theluke**: Member[^1] of the suprisingly large wog population on gnulag. Claims his brane is too small to learn anything other than vim. Edgy af.
@@ -190,7 +190,6 @@ You will need to reconnect on map change
 ## Bots
 * **DukeTogo**: Best not to talk to it. If provoked, it will BTFO you in microseconds. Says **AndroitKitKat** is gay and seems not to know about **browndawg**.
 * **gonzobot**: Snoonet's cloudbot instance. All of its functions that rely on external APIs are broken.
-* **Tess**: **Protheus**'s bot. Used on his servers, he uses #gnulag as beta testers.
 * **CYBERDUNCE**: AI-core re-enabled. Shitposts constantly. Regulars bullied it to oblivion, resulting in constant e-depression.
 
 If you're regular, PM **browndawg** or **audron** to get your name and description on here,  
