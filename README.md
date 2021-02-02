@@ -176,13 +176,13 @@ You will need to reconnect on map change
 * **Romanson**: Not roman, but son. Somewhere in a shitty 3rd world cuntry. Been bitching about not having a bio while being a bio student. The absolute botman.
 * **lanosz**: Resident slavic slavaboo (cringe), actually the only sane person in the entire channel (source: lanosz). Bash scripting leviathan. Catbottom wont stop obsessing over him. Speaks proper interslavic but is generally too dumb for most stuff.
 * **IndyJoenz** Came back recently. Doing l33t h4x and ascii arts. Mascot of the channel, representing its spirit. Has DukeTogo as a bot.
+* **digitalDiplomat**: He often disappears for months on end with no explanation; this is normal. Currently a Manjaro user because Arch is overrated. ~~Is trying to popularize the **.gvy** file extension because **.groovy** is irritatingly long.~~ Has _officially_ added `.gvy` as a recognized mimetype on most Unix-based desktops.
 
 ## Regulars Emeritus :(
 
 * **Crocodillian**: Resident weed smoker. Is into good music. Codes C (allegedly). Also has a history of Perl programming (which he regrets). Owns 420 core workstation that everyone's jealous of.
 * **Jennifer-Lawrence**: Actually a black man from rural Alabama. Would like to be an anime girl.  
   Has 10 terabytes of encrypted hentai on his university's Google Drive. Only actually appeared to fucc ducks and bang dicks.
-* **digitalDiplomat**: Goes out of his way to avoid conflict. Currently a Manjaro user because Arch is overrated. Is trying to popularize the **.gvy** file extension because **.groovy** is irritatingly long.
 * **cheers**: Accelerationist. Responsible for global warming. Defected to #redoxmasterrace **> giving in to memes**
 * **theluke**: Member[^1] of the suprisingly large wog population on gnulag. Claims his brane is too small to learn anything other than vim. Edgy af.
 * **Tuxiee**: † [In Memoriam](https://gnulag.net/tuxiee-in-remembrance.html)
