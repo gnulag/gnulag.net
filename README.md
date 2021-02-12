@@ -127,6 +127,7 @@ It is a channel funded by our government. It's manufactured opposition, a honeyp
 
 Here's [the entire list of gonzobot commands](https://snoonet.org/gonzobot).
 
+### n2n
 We run a n2n supernode for p2p connections. [Instruction](https://github.com/ntop/n2n) on how to install the client (edge node), then connect with
 ```
 sudo edge -d n2n0 -c gnulag \
@@ -135,9 +136,8 @@ sudo edge -d n2n0 -c gnulag \
     -a 10.255.88.<your ip number thingy here>
 ```
 
-* [cocaine.farm](https://cocaine.farm) gameservers (game - port)
-    * **minecraft**: `25565` currently shut down. Can be resurrected
-    * **xonotic**: `26000`
+### Minecraft
+Minecraft on `gnulag.net:25565`.
 
 ### Xonotic
 To connect to the xonotic server get [xonotic](http://xonotic.org/), start it,  
