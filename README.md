@@ -198,5 +198,5 @@ or send a PR to [our github repo](https://github.com/gnulag/gnulag.net)
 [^1]: Dick
 
 ---
-© 2020 browndawg et al
+© 2021 browndawg et al
 
