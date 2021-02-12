@@ -176,7 +176,7 @@ You will need to reconnect on map change
 * **Romanson**: Not roman, but son. Somewhere in a shitty 3rd world cuntry. Been bitching about not having a bio while being a bio student. The absolute botman.
 * **lanosz**: Resident slavic slavaboo (cringe), actually the only sane person in the entire channel (source: lanosz). Bash scripting leviathan. Catbottom wont stop obsessing over him. Speaks proper interslavic but is generally too dumb for most stuff.
 * **IndyJoenz** Came back recently. Doing l33t h4x and ascii arts. Mascot of the channel, representing its spirit. Has DukeTogo as a bot.
-* **digitalDiplomat**: He often disappears for months on end with no explanation; this is normal. Currently a Manjaro user because Arch is overrated. ~~Is trying to popularize the **.gvy** file extension because **.groovy** is irritatingly long.~~ Has _officially_ added `.gvy` as a recognized mimetype on most Unix-based desktops.
+* **d1pl0mat**: He often disappears for months on end with no explanation; this is normal. Currently a Manjaro user because Arch is overrated. ~~Is trying to popularize the `.gvy` file extension because `.groovy` is irritatingly long.~~ Has _officially_ added `.gvy` as a recognized mimetype on most Unix-based desktops.
 
 ## Regulars Emeritus :(
 
@@ -198,5 +198,5 @@ or send a PR to [our github repo](https://github.com/gnulag/gnulag.net)
 [^1]: Dick
 
 ---
-© 2020 browndawg et al
+© 2021 browndawg et al
 
