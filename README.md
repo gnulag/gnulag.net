@@ -74,8 +74,8 @@ https://snoonet.org/anope#NickServ.
 
 * `/mode +j #gnulag`, or google on how to set up `autojoin` in your IRC client.
 * Get a [Snoonet BNC](https://snoonet.org/bnc) account (if you don't already have one),  
-  or set up a [Quassel Core](https://quassel-irc.org/) somewhere.
-* Alternatively, ping **crystalmett** or **browndawg** for an account on their server.
+  or set up a [Quassel Core](https://quassel-irc.org/) / [ZNC server](https://wiki.znc.in/ZNC) somewhere.
+* Alternatively, ping **crystalmett**, **browndawg**, or **skg** for an account on their server.
 * If you've been to Snoonet for more than a month, they have their own bouncer.
 
 ### Can I ask for programming / unix help?
@@ -157,7 +157,7 @@ You will need to reconnect on map change
 * **Zowlyfon**: Resident chad, lifts. Haskell Shill. In a sexual relationship with his headphones.
 * **whiteph**: Plays Guitar. Really good at physics.
 * **RadiantBastard**: His job is to remove kebab and add chaos. Uses macOS like a fuccboi. Resident memeposter. Bringer of all news.
-* **AndroidKitKat**:ウィーブ, Pretends to understand Japanese, actually kinda understands japanese, wants to live in japan someday, dont fuck with my bio you morons, Resident weeb and connoisseur of all anime. Other resident fuccboi (seriously, MacOS bad). Possibly owns anal beads, freeballs it every once in a while, wants the longest bio to assert dominance over the other virgin bios, would also occasionally not turn down the notion of being a cute anime girl
+* **AndroidKitKat/skg**:ウィーブ, Pretends to understand Japanese, actually kinda understands japanese, wants to live in japan someday, dont fuck with my bio you morons, Resident weeb and connoisseur of all anime. Other resident fuccboi (seriously, MacOS bad). Possibly owns anal beads, freeballs it every once in a while, wants the longest bio to assert dominance over the other virgin bios, would also occasionally not turn down the notion of being a cute anime girl
 * **pta2002**: Idiot kid. Actually a genius. Plays plastic guitar, ~~but would love to play actual guitar~~ **UPDATE**: plays actual guitar too. Likes BSPWM, Fedora, and allegedly codes in Go in his spare time, only to complain about it afterwards. Has a crush on Link, ~~no~~ ~~full~~ half homo.
 * **AB49K**: Programs in an obsolete python version in the land down under, lives in shipping container. Has cute doggos. Will die of liver failure at age 30. Thongs wogs.
 * **audron**: Master of containers. Hosts a bunch of shit that constantly breaks.  
