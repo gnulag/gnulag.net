@@ -139,14 +139,17 @@ sudo edge -d n2n0 -c gnulag \
 ```
 
 ### Minecraft
+
 Minecraft on `gnulag.net:25565`.
 
 ### Xonotic
+
 To connect to the xonotic server get [xonotic](http://xonotic.org/), start it,  
 open the console with `~` and type `connect cocaine.farm:26000`.  
 You will need to reconnect on map change
 
 ## GNULag
+
 ![](./img/de7a5ea1a6.png)
 
 ## Regulars
@@ -181,6 +184,7 @@ You will need to reconnect on map change
 * **basso**: his servers are more _bronken_ than audron's (emanating smoke signals so owner knows what's up). Great memeposter, **belzurix** has stashed many good ones of those memes.
 * **WnB**: has great knowledge but prefers getting erect. Posts fap materials constantly. Biggest ~~dick~~ duck hunter in the history of **#gnulag**
 * **iamidly**: has weird ideas about how computers should be (most of those are shared with **belzurix**). Runs his own distro and dogfoods his own coreutils-replacement. Doesn't tolerate colorful output.
+
 ## Regulars Emeritus :(
 
 * **Crocodillian**: Resident weed smoker. Is into good music. Codes C (allegedly). Also has a history of Perl programming (which he regrets). Owns 420 core workstation that everyone's jealous of.
