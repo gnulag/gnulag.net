@@ -1,31 +1,18 @@
-variables:
-  KUBE_INGRESS_BASE_DOMAIN: gnulag.net
-  POSTGRES_ENABLED: "false"
-  ROLLOUT_RESOURCE_TYPE: deployment
-  REPLICAS: 4
-
-stages:
-  - build
-  - test
-  - deploy  # dummy stage to follow the template guidelines
-  - review
-  - dast
-  - staging
-  - canary
-  - production
-  - incremental rollout 10%
-  - incremental rollout 25%
-  - incremental rollout 50%
-  - incremental rollout 100%
-  - performance
-  - cleanup
-
 include:
-  - template: Jobs/Build.gitlab-ci.yml
-  - template: Jobs/Deploy.gitlab-ci.yml
+  - project: "cocainefarm/templates/ci"
+    file: "s3.yaml"
 
-production:
-  environment:
-    name: production
-    url: http://$KUBE_INGRESS_BASE_DOMAIN
+variables:
+  S3_SRC: dist
 
+build:
+  image: ejectedspace/pandoc-builder
+  stage: build
+  script:
+    - make build
+  artifacts:
+    paths:
+      - dist
+  only:
+    refs:
+      - master
