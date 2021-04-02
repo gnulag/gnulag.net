@@ -181,7 +181,7 @@ If you're regular, PM **browndawg** or **audron** to get your name and descripti
 * **Romanson**: Not roman, but son. Somewhere in a shitty 3rd world cuntry. Been bitching about not having a bio while being a bio student. The absolute botman.
 * **lanosz**: Resident slavic slavaboo (cringe), actually the only sane person in the entire channel (source: lanosz). Bash scripting leviathan. Catbottom wont stop obsessing over him. Speaks proper interslavic but is generally too dumb for most stuff.
 * **IndyJoenz** Came back recently. Doing l33t h4x and ascii arts. Mascot of the channel, representing its spirit. Has DukeTogo as a bot.
-* **d1pl0mat**: He often disappears for months on end with no explanation; this is normal. Currently a Manjaro user because Arch is overrated. ~~Is trying to popularize the `.gvy` file extension because `.groovy` is irritatingly long.~~ Has _officially_ added `.gvy` as a recognized mimetype on most Unix-based desktops.
+* **d1pl0mat**: He often disappears for months on end with no explanation; this is normal. Learning webshit and doing okay at it. ~~Is trying to popularize the `.gvy` file extension because `.groovy` is irritatingly long.~~ Has _officially_ added `.gvy` as a recognized mimetype on most Unix-based desktops.
 * **k33k**: master hacker and shitposter with an ego bigger than your mum. In combat, pommels opponents into the ground.
 * **basso**: his servers are more _bronken_ than audron's (emanating smoke signals so owner knows what's up). Great memeposter, **belzurix** has stashed many good ones of those memes.
 * **WnB**: has great knowledge but prefers getting erect. Posts fap materials constantly. Biggest ~~dick~~ duck hunter in the history of **#gnulag**
