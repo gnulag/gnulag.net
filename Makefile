@@ -12,7 +12,7 @@ dist/index.html: src/template.html README.md
 	perl -i -p0e 's/<p><img src="(.*?)" \/><\/p>/<img class="mx-auto d-block img-fluid" src="\1" \/>/gs' dist/index.html
 	perl -i -p0e 's/(<hr \/>\n<p>© 2021 browndawg et al<\/p>\n)(<\/div><\/div><\/div><\/div>)/\2\1/gs' dist/index.html
 
-dist/%.html: src/template.html %.md
+dist/%.html: %.md src/template.html
 	pandoc -f markdown -t html --template src/template.html --section-divs $< --metadata="title:GNU/Lag" -o $@
 	perl -i -p0e 's/<header>.*?<\/header>//gs' $@
 	perl -i -p0e 's/<section id="[A-Za-z0-9\-]*?" class="level3">(.*?)<\/section>/\1/gs' $@
