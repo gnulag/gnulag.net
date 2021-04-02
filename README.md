@@ -154,6 +154,8 @@ You will need to reconnect on map change
 
 ## Regulars
 
+If you're regular, PM **browndawg** or **audron** to get your name and description on here,  or send a PR to [our github repo](https://github.com/gnulag/gnulag.net)
+
 * **browndawg**: BTW he uses Arch Linux. Benevolent, fair OP. Has the power of JS rockstars AND normal rockstars. Vim ninja. ~~Sometimes~~ Always shits on streets. ~~Wants to sex the benis.~~  
   Is as straight as he is white, and he's white AF.(LIES (allegedly)).
 * **xi**: Author of our bot (vini). In a toxic relationship with baguettes. FreeBSD shill. Fuchsia shill. Writes segfaults in C that only compile on **FreeBSD** UPDATE: has committed the NodeJS heresy. Now his bot, **jesi**, works on linux, too.
@@ -203,8 +205,6 @@ You will need to reconnect on map change
 * **CYBERDUNCE**: ~~AI-core re-enabled. Shitposts constantly.~~ Regulars bullied it to oblivion, resulting in constant e-depression. Bringer of RSS.
 * **jesi**: **xi**'s utter crap NodeJS bot that fucks itself up during every netsplit.
 * **lalilo**: Bot to control the gnulag radio.
-If you're regular, PM **browndawg** or **audron** to get your name and description on here,  
-or send a PR to [our github repo](https://github.com/gnulag/gnulag.net)
 
 [^1]: You should spend time in channel regularly. In practice, this means that if you're 24/7 logged in, then at least every two weeks, you have to do some non-fake activity. This is to avoid people making local logs without adding anything to the channel. Compare and contrast [m]atrix lurker policy.
 [^2]: Dick
