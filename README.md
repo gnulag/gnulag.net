@@ -50,7 +50,7 @@ While the channel was mostly founded by members of another **Linux** channel, **
 
 ### Who do I ask for help?
 
-* **browndawg** | **Richard-Stalin**
+* **browndawg** | **Richard-Stalin** | **queefburglar69**
 * **crystalmett**
 * **iownall555**
 * **audron**
