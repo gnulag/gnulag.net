@@ -186,6 +186,7 @@ If you're regular, PM **browndawg** or **audron** to get your name and descripti
 * **basso**: his servers are more _bronken_ than audron's (emanating smoke signals so owner knows what's up). Great memeposter, **belzurix** has stashed many good ones of those memes.
 * **WnB**: has great knowledge but prefers getting erect. Posts fap materials constantly. Biggest ~~dick~~ duck hunter in the history of **#gnulag**
 * **iamidly**: has weird ideas about how computers should be (most of those are shared with **belzurix**). Runs his own distro and dogfoods his own coreutils-replacement. Doesn't tolerate colorful output.
+* **Shadowhand**: all around sr tech ninja, uses windows but yearns for linux, possibly autistic, boobs and cats are his specialty.
 
 ## Regulars Emeritus :(
 
