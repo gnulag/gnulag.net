@@ -119,7 +119,7 @@ No. Its #lmr with porn, commies and non-whites, ~~minus the [m]atrix lurkers.~~ 
 
 ### How is the channel related to #redoxmasterrace ?
 
-We were temporarely allied with them against the vile necromancers who are trying to make an army from the rotting corpse that #linuxmasterrace is.
+We were temporarely allied with them against the vile necromancers who were trying to make an army from the rotting corpse that #linuxmasterrace is. Update: ultimately, the #lmr reanimation attempt resulted in failure. Most of the lines are fake activity by two people who call each other (and the rest of the people as well) "gey". Pls don't tell them that it's written "ghey".
 
 ### What is #69
 
@@ -183,10 +183,10 @@ If you're regular, PM **browndawg** or **audron** to get your name and descripti
 * **IndyJoenz** Came back recently. Doing l33t h4x and ascii arts. Mascot of the channel, representing its spirit. Has DukeTogo as a bot.
 * **d1pl0mat**: He often disappears for months on end with no explanation; this is normal. Learning webshit and doing okay at it. ~~Is trying to popularize the `.gvy` file extension because `.groovy` is irritatingly long.~~ Has _officially_ added `.gvy` as a recognized mimetype on most Unix-based desktops.
 * **k33k**: master hacker and shitposter with an ego bigger than your mum. In combat, pommels opponents into the ground.
-* **basso**: his servers are more _bronken_ than audron's (emanating smoke signals so owner knows what's up). Great memeposter, **belzurix** has stashed many good ones of those memes.
+* **basso**: his servers are more _bronken_ than audron's (emanating smoke signals so owner knows what's up). Great memeposter.
 * **WnB**: has great knowledge but prefers getting erect. Posts fap materials constantly. Biggest ~~dick~~ duck hunter in the history of **#gnulag**
-* **iamidly**: has weird ideas about how computers should be (most of those are shared with **belzurix**). Runs his own distro and dogfoods his own coreutils-replacement. Doesn't tolerate colorful output.
-* **Shadowhand**: all around sr tech ninja, uses windows but yearns for linux, possibly autistic, boobs and cats are his specialty.
+* **iamidly**: has weird ideas about how computers should be. Rolls his own distro and dogfoods his own coreutils replacement. Doesn't tolerate colorful output.
+* **Shadowhand**: all around sr tech ninja, uses windows but yearns for linux, possibly autistic, boobs (his own ones) and cats are his specialty.
 * **Crocodillian**: Resident weed smoker. Is into good music. Codes C (allegedly). Also has a history of Perl programming (which he regrets). Owns 420 core workstation that everyone's jealous of.
 
 ## Regulars Emeritus :(
