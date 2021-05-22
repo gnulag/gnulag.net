@@ -179,7 +179,7 @@ If you're regular, PM **browndawg** or **audron** to get your name and descripti
 * **Rolfe**: Farm fresh Idaho potato. Waifu supplier. Insists her stuffed toy collection doesn't come alive when you're asleep. Dabbles in rule34 involving extra long moustaches.
 * **random-nick**: Impossible to annoy, resident Common Lisp shill. Rekts any other lisp dialect that appears in the dicussion.
 * **Romanson**: Not roman, but son. Somewhere in a shitty 3rd world cuntry. Been bitching about not having a bio while being a bio student. The absolute botman.
-* **lanosz**: Resident slavic slavaboo (cringe), actually the only sane person in the entire channel (source: lanosz). Bash scripting leviathan. Catbottom wont stop obsessing over him. Speaks proper interslavic but is generally too dumb for most stuff.
+* **lanosz**: Resident slav, actually the only sane person in the entire channel (source: lanosz). ~~Bash scripting leviathan~~ Slave to emacs. Catbottom wont stop obsessing over him. Actually learned interslavic due too autism.
 * **IndyJoenz** Came back recently. Doing l33t h4x and ascii arts. Mascot of the channel, representing its spirit. Has DukeTogo as a bot.
 * **d1pl0mat**: He often disappears for months on end with no explanation; this is normal. Learning webshit and doing okay at it. ~~Is trying to popularize the `.gvy` file extension because `.groovy` is irritatingly long.~~ Has _officially_ added `.gvy` as a recognized mimetype on most Unix-based desktops.
 * **k33k**: master hacker and shitposter with an ego bigger than your mum. In combat, pommels opponents into the ground.
