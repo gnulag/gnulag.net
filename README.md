@@ -170,7 +170,7 @@ If you're regular, PM **browndawg** or **audron** to get your name and descripti
 * **iownall555**: IDK how this guy is network staff but I'm glad he is, wishes he was British. **>Being a Britbong in $CURRENT_YEAR** Also thongs wogs with AB49K in the land down under while preaching the good word of Richard M. Stallman, our GNU/Lord and Savior.
 * **MrNeon**: Resident commie. Sleeps with his socks on. May or may not use actual neon lights as dildoes. Connoisseur of incest porn.
 * **catbottom**: Resident chink. Loyalty in question. Seen more in #lmr than #gnulag. Thinks your doggo is a snacc.
-* **TinyTimmyTokyo**: Resident gayboye, Gantoo Lunix nerd, and eternally sleepless lurker. (Allegedly) is somewhat good at coding in C++ and Shell. Has Golden Retriever doggo but likes cats (don't ask why). Chaotic evil regexer. Also resident furry. Into transformation porn. [Help Needed](https://gnulag.net/please-herp-tinytimmytokyo.html)
+* **TinyTimmyTokyo**: Resident gayboye, Gantoo Lunix nerd, and eternally sleepless lurker. (Allegedly) is somewhat good at coding in C++ and Shell. Has Golden Retriever doggo but likes cats (don't ask why). Chaotic evil regexer. Also resident furry. Into transformation porn. [Help Needed](https://gnulag.net/please-help-tinytimmytokyo.html)
 * **za**: Depressed Arch Linux boye, is weirdly into keyboards, and anime tiddies. He pretends to be an audiophile, and vapes.
 * **justJanne**: Genius. Never forgets a thing she reads. Resident data collection agency.
 * **Seirdy**: big fan of CLIs and prefers everything to GUI. His data collection is greedier than Zuckbook's, Twatter's and NSA's combined.
