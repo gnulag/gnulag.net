@@ -92,7 +92,6 @@ You'll have to host it somewhere, and share a public link. There are scripts and
 We have three services hosted by community members:
 
 * [thecum.zone](https://thecum.zone)   - by **Volkor**
-* [p.gnulag.net](https://p.gnulag.net) - by **audron**
 * [WaifuPaste](https://waifupaste.moe) - by **skg**
 
 or use public services like:
