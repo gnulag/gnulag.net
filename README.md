@@ -89,7 +89,7 @@ Yes. We're not an official help channel, but regulars will often help you out wi
 
 You'll have to host it somewhere, and share a public link. There are scripts and tools that can automate this for you. Ask on the channel.
 
-We have three services hosted by community members:
+We have two services hosted by community members:
 
 * [thecum.zone](https://thecum.zone)   - by **Volkor**
 * [WaifuPaste](https://waifupaste.moe) - by **skg**
@@ -188,6 +188,7 @@ If you're regular, PM **browndawg** or **audron** to get your name and descripti
 * **Shadowhand**: all around sr tech ninja, uses windows but yearns for linux, possibly autistic, boobs (his own ones) and cats are his specialty.
 * **Crocodillian**: Resident weed smoker. Is into good music. Codes C (allegedly). Also has a history of Perl programming (which he regrets). Owns 420 core workstation that everyone's jealous of.
 *  **FoxsideMiners** addicted to plushies, trying to take over the channel with furriness, one of the resident furries(see TinyTimmmyTokyo), underminds browngaydwag's authorioty.
+*  **Volkor** rollerblading pirate. Runs thecum.zone and a jellyfin server. Please send hand pictures to him.
 
 ## Regulars Emeritus :(
 
