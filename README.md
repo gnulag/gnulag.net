@@ -169,7 +169,7 @@ If you're regular, PM **browndawg** or **audron** to get your name and descripti
 * **iownall555**: IDK how this guy is network staff but I'm glad he is, wishes he was British. **>Being a Britbong in $CURRENT_YEAR** Also thongs wogs with AB49K in the land down under while preaching the good word of Richard M. Stallman, our GNU/Lord and Savior.
 * **MrNeon**: Resident commie. Sleeps with his socks on. May or may not use actual neon lights as dildoes. Connoisseur of incest porn.
 * **catbottom**: Resident chink. Loyalty in question. Seen more in #lmr than #gnulag. Thinks your doggo is a snacc.
-* **TinyTimmyTokyo**: Resident gayboye, Gantoo Lunix nerd, and eternally sleepless lurker. (Allegedly) is somewhat good at coding in C++ and Shell. Has Golden Retriever doggo but likes cats (don't ask why). Chaotic evil regexer. Also resident furry. Into transformation porn. [Help Needed](https://gnulag.net/please-help-tinytimmytokyo.html)[^4]
+* **TinyTimmyTokyo**: Resident gayboye, Gantoo Lunix nerd, and eternally sleepless lurker. (Allegedly) is somewhat good at coding in C++ and Shell. Has Golden Retriever doggo but likes cats (don't ask why). Chaotic evil regexer. Also resident furry. Into transformation porn. [Help Needed](https://gnulag.net/please-help-tinytimmytokyo.html)
 * **za**: Depressed Arch Linux boye, is weirdly into keyboards, and anime tiddies. He pretends to be an audiophile, and vapes.
 * **justJanne**: Genius. Never forgets a thing she reads. Resident data collection agency.
 * **Seirdy**: big fan of CLIs and prefers everything to GUI. His data collection is greedier than Zuckbook's, Twatter's and NSA's combined.
@@ -180,7 +180,7 @@ If you're regular, PM **browndawg** or **audron** to get your name and descripti
 * **Romanson**: Not roman, but son. Somewhere in a shitty 3rd world cuntry. Been bitching about not having a bio while being a bio student. The absolute botman.
 * **lanosz**: Resident slav, actually the only sane person in the entire channel (source: lanosz). ~~Bash scripting leviathan~~ Slave to emacs. Catbottom wont stop obsessing over him. Actually learned interslavic due too autism.
 * **IndyJoenz** Came back recently. Doing l33t h4x and ascii arts. Mascot of the channel, representing its spirit. Has DukeTogo as a bot.
-* **d1pl0mat**: He often disappears for months on end with no explanation; this is normal. Learning webshit and doing okay at it. ~~Is trying to popularize the `.gvy` file extension because `.groovy` is irritatingly long.~~ Has _officially_ added `.gvy` as a recognized mimetype on most Unix-based desktops.
+* **d1pl0mat**: ~~He~~ She often disappears for months on end with no explanation; this is normal. Helldesk rep for an actually-pretty-awesome security company. Is the reason `.gvy` is a recognized mimetype for Groovy source code on most Unix-based desktops[^4].
 * **k33k**: master hacker and shitposter with an ego bigger than your mum. In combat, pommels opponents into the ground.
 * **basso**: his servers are more _bronken_ than audron's (emanating smoke signals so owner knows what's up). Great memeposter.
 * **WnB**: has great knowledge but prefers getting erect. Posts fap materials constantly. Biggest ~~dick~~ duck hunter in the history of **#gnulag**
@@ -211,6 +211,7 @@ If you're regular, PM **browndawg** or **audron** to get your name and descripti
 [^1]: You should spend time in channel regularly. In practice, this means that if you're 24/7 logged in, then at least every two weeks, you have to do some non-fake activity. This is to avoid people making local logs without adding anything to the channel. Compare and contrast [m]atrix lurker policy.
 [^2]: Dick
 [^3]: as unix standard dictates
+[^4]: Who the hell wants to type out `.groovy`‽ Might as well type `.betterversionofjavawithridiculouslylongfilenameextension`.
 
 ---
 © 2021 browndawg et al
