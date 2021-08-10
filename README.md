@@ -189,6 +189,7 @@ If you're regular, PM **browndawg** or **audron** to get your name and descripti
 * **Crocodillian**: Resident weed smoker. Is into good music. Codes C (allegedly). Also has a history of Perl programming (which he regrets). Owns 420 core workstation that everyone's jealous of.
 *  **FoxsideMiners** addicted to plushies, trying to take over the channel with furriness, one of the resident furries(see TinyTimmmyTokyo), underminds browngaydwag's authorioty.
 *  **Volkor** rollerblading pirate. Runs thecum.zone and a jellyfin server. Please send hand pictures to him.
+*  **poopingpenis**: principally Maoist, enjoyer of Gonzalo and the PCP. DM them about communism.
 
 ## Regulars Emeritus :(
 
