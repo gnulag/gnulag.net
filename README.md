@@ -1,6 +1,6 @@
 # GNU/Lag
 
-Welcome to browndawg's highbrown society for programmers and sysadmins.
+Welcome to browndawg's lowbrow society for programmers and sysadmins.
 
 ## Rules
 
@@ -52,7 +52,6 @@ While the channel was mostly founded by members of another **Linux** channel, **
 
 * **browndawg** | **Richard-Stalin** | **queefburglar69**
 * **crystalmett**
-* **iownall555**
 * **audron**
 * **Zowlyfon** | **Z**
 * **A_Dragon** | **Roy_Mustang**
@@ -141,12 +140,6 @@ sudo edge -d n2n0 -c gnulag \
 
 Minecraft on `gnulag.net:25565`.
 
-### Xonotic
-
-To connect to the xonotic server get [xonotic](http://xonotic.org/), start it,  
-open the console with `~` and type `connect cocaine.farm:26000`.  
-You will need to reconnect on map change
-
 ## GNULag
 
 ![](./img/de7a5ea1a6.png)
@@ -166,7 +159,6 @@ If you're regular, PM **browndawg** or **audron** to get your name and descripti
 * **audron**: Master of containers. Hosts a bunch of shit that constantly breaks.  
   Somehow attracts segfaults. Person to anoying if anything breaks down.
 * **A_Dragon**: Resident nazi mod. Eats babies. Surprisingly good guy. Other resident furry. Ask him what his name stands for.
-* **iownall555**: IDK how this guy is network staff but I'm glad he is, wishes he was British. **>Being a Britbong in $CURRENT_YEAR** Also thongs wogs with AB49K in the land down under while preaching the good word of Richard M. Stallman, our GNU/Lord and Savior.
 * **MrNeon**: Resident commie. Sleeps with his socks on. May or may not use actual neon lights as dildoes. Connoisseur of incest porn.
 * **catbottom**: Resident chink. Loyalty in question. Seen more in #lmr than #gnulag. Thinks your doggo is a snacc.
 * **TinyTimmyTokyo**: Resident gayboye, Gantoo Lunix nerd, and eternally sleepless lurker. (Allegedly) is somewhat good at coding in C++ and Shell. Has Golden Retriever doggo but likes cats (don't ask why). Chaotic evil regexer. Also resident furry. Into transformation porn. [Help Needed](https://gnulag.net/please-help-tinytimmytokyo.html)
