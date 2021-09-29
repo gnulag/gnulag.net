@@ -149,7 +149,7 @@ Minecraft on `gnulag.net:25565`.
 If you're regular, PM **browndawg** or **audron** to get your name and description on here,  or send a PR to [our github repo](https://github.com/gnulag/gnulag.net)
 
 * **browndawg**: BTW he uses Arch Linux. Benevolent, fair OP. Has the power of JS rockstars AND normal rockstars. Vim ninja. ~~Sometimes~~ Always shits on streets. ~~Wants to sex the benis.~~  
-  Is as straight as he is white, and he's white AF.(LIES (allegedly)).
+  Is as straight as he is white, and he's white AF.(LIES ~~(allegedly)~~ (no its true)).
 * **xi**: Author of our bot (vini). In a toxic relationship with baguettes. FreeBSD shill. Fuchsia shill. Writes segfaults in C that only compile on **FreeBSD** UPDATE: has committed the NodeJS heresy. Now his bot, **jesi**, works on linux, too.
 * **Zowlyfon**: Resident chad, lifts. Haskell Shill. In a sexual relationship with his headphones.
 * **RadiantBastard**: His job is to remove kebab and add chaos. Uses macOS like a fuccboi. Resident memeposter. Bringer of all news.
@@ -159,7 +159,7 @@ If you're regular, PM **browndawg** or **audron** to get your name and descripti
 * **audron**: Master of containers. Hosts a bunch of shit that constantly breaks.  
   Somehow attracts segfaults. Person to anoying if anything breaks down.
 * **A_Dragon**: Resident nazi mod. Eats babies. Surprisingly good guy. Other resident furry. Ask him what his name stands for.
-* **MrNeon**: Resident commie. Sleeps with his socks on. May or may not use actual neon lights as dildoes. Connoisseur of incest porn.
+* **MrNeon**: Resident commie. Sleeps with his socks on. May or may not use actual neon lights as dildoes. Connoisseur of incest porn. 
 * **catbottom**: Resident chink. Loyalty in question. Seen more in #lmr than #gnulag. Thinks your doggo is a snacc.
 * **TinyTimmyTokyo**: Resident gayboye, Gantoo Lunix nerd, and eternally sleepless lurker. (Allegedly) is somewhat good at coding in C++ and Shell. Has Golden Retriever doggo but likes cats (don't ask why). Chaotic evil regexer. Also resident furry. Into transformation porn. [Help Needed](https://gnulag.net/please-help-tinytimmytokyo.html)
 * **za**: Depressed Arch Linux boye, is weirdly into keyboards, and anime tiddies. He pretends to be an audiophile, and vapes.
@@ -179,7 +179,7 @@ If you're regular, PM **browndawg** or **audron** to get your name and descripti
 * **iamidly**: has weird ideas about how computers should be. Rolls his own distro and dogfoods his own coreutils replacement. Doesn't tolerate colorful output.
 * **Shadowhand**: all around sr tech ninja, uses windows but yearns for linux, possibly autistic, boobs (his own ones) and cats are his specialty.
 * **Crocodillian**: Resident weed smoker. Is into good music. Codes C (allegedly). Also has a history of Perl programming (which he regrets). Owns 420 core workstation that everyone's jealous of.
-*  **FoxsideMiners** addicted to plushies, trying to take over the channel with furriness, one of the resident furries(see TinyTimmmyTokyo), underminds browngaydwag's authorioty.
+*  **FoxsideMiners** addicted to plushies, trying to take over the channel with furriness, one of the resident furries(see TinyTimmmyTokyo), underminds browngaydwag's authorioty. Wants to paint his nails.
 *  **Volkor** rollerblading pirate. Runs thecum.zone and a jellyfin server. Please send hand pictures to him.
 *  **poopingpenis**: principally Maoist, enjoyer of Gonzalo and the PCP. DM them about communism.
 
@@ -209,3 +209,34 @@ If you're regular, PM **browndawg** or **audron** to get your name and descripti
 ---
 © 2021 browndawg et al
 
+________________________________██____________________________
+________________________________██____________________________
+________________________________██____________________________
+________________________________██____________________________
+________________________________██____________________________
+________________________________██____________________________
+________________________________██____________________________
+________________________________██____________________________
+____________██__________________██____________██______________
+____________██__________________██____________██______________
+____________██__________________██____________██______________
+____________██__________________██____________██______________
+____________██__________________██____________██______██______
+____________██__________________██____________██______██______
+____________██__________________██____________██______██______
+▒▒████████████████████████████████████████████████████████████
+____________██______██__________██____________██______________
+____________██______██__________██____________██______________
+____________██______██__________██____________██______________
+____________██______██__________██____________██______________
+____________██______██__________██____________██______________
+____________██______██__________██______██████████████████████
+____________██______██__________██____________________________
+____________██______██__________██____________________________
+________________________________██____________________________
+________________________________██____________________________
+________________________________██____________________________
+________________________________██____________________________
+________________________________██____________________________
+________________________________██____________________________
+________________________________██____________________________
