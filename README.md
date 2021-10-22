@@ -178,7 +178,6 @@ If you're regular, PM **browndawg** or **audron** to get your name and descripti
 * **WnB**: has great knowledge but prefers getting erect. Posts fap materials constantly. Biggest ~~dick~~ duck hunter in the history of **#gnulag**
 * **iamidly**: has weird ideas about how computers should be. Rolls his own distro and dogfoods his own coreutils replacement. Doesn't tolerate colorful output.
 * **Shadowhand**: all around sr tech ninja, uses windows but yearns for linux, possibly autistic, boobs (his own ones) and cats are his specialty.
-* **Crocodillian**: Resident weed smoker. Is into good music. Codes C (allegedly). Also has a history of Perl programming (which he regrets). Owns 420 core workstation that everyone's jealous of.
 *  **FoxsideMiners** addicted to plushies, trying to take over the channel with furriness, one of the resident furries(see TinyTimmmyTokyo), underminds browngaydwag's authorioty.
 *  **Volkor** rollerblading pirate. Runs thecum.zone and a jellyfin server. Please send hand pictures to him.
 *  **poopingpenis**: principally Maoist, enjoyer of Gonzalo and the PCP. DM them about communism.
@@ -193,7 +192,8 @@ If you're regular, PM **browndawg** or **audron** to get your name and descripti
 * **ix**: Resident weeb and audiophile, doesn't like any guitar that isn't a telecaster.  
   Patron of the occult. Not to be bullied.
 * **whiteph**: Plays Guitar. Really good at physics.
-
+* **iownall555**: freeze peach enthusiast
+* **Crocodillian**: Resident weed smoker. Is into good music. Codes C (allegedly). Also has a history of Perl programming (which he regrets). Owns 420 core workstation that everyone's jealous of.
 ## Bots
 * **DukeTogo**: Best not to talk to it. If provoked, it will BTFO you in microseconds. Says **AndroitKitKat** (now skg) is gay and seems not to know about **browndawg**.
 * **gonzobot**: Snoonet's cloudbot instance. All of its functions that rely on external APIs are broken.
