@@ -8,10 +8,10 @@ GNU/Lag doesn't have many rules you'd have to explicitly state. Don't be a dick,
 
 * No CP (we'll report you to every three letter agency in existence).
 * **NSFW** content need not be marked. Please mark gore and such as **NSFL**.
+* [PSA](https://gnulag.net/psa.html)
 * No lurking [^1]
 * Don't post logs anywhere.
 * Don't sneeze whilst getting fingered.
-
 ## Links
 
 * [Webchat](https://tknk.io/A5YW)
