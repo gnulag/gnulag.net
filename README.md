@@ -178,9 +178,9 @@ If you're regular, PM **browndawg** or **audron** to get your name and descripti
 * **WnB**: has great knowledge but prefers getting erect. Posts fap materials constantly. Biggest ~~dick~~ duck hunter in the history of **#gnulag**
 * **iamidly**: has weird ideas about how computers should be. Rolls his own distro and dogfoods his own coreutils replacement. Doesn't tolerate colorful output.
 * **Shadowhand**: all around sr tech ninja, uses windows but yearns for linux, possibly autistic, boobs (his own ones) and cats are his specialty.
-*  **FoxsideMiners** addicted to plushies, trying to take over the channel with furriness, one of the resident furries(see TinyTimmmyTokyo), underminds browngaydwag's authorioty.
-*  **Volkor** rollerblading pirate. Runs thecum.zone and a jellyfin server. Please send hand pictures to him.
-*  **poopingpenis**: principally Maoist, enjoyer of Gonzalo and the PCP. DM them about communism.
+* **FoxsideMiners** addicted to plushies, trying to take over the channel with furriness, one of the resident furries(see TinyTimmmyTokyo), underminds browngaydwag's authorioty.
+* **Volkor** rollerblading pirate. Runs thecum.zone and a jellyfin server. Please send hand pictures to him.
+* **poopingpenis**: principally Maoist, enjoyer of Gonzalo and the PCP. DM them about communism.
 * **Phase**: I've been waiting a couple years for crystalmett to put me on the site.
 
 ## Regulars Emeritus :(
@@ -195,12 +195,15 @@ If you're regular, PM **browndawg** or **audron** to get your name and descripti
 * **whiteph**: Plays Guitar. Really good at physics.
 * **iownall555**: freeze peach enthusiast
 * **Crocodillian**: Resident weed smoker. Is into good music. Codes C (allegedly). Also has a history of Perl programming (which he regrets). Owns 420 core workstation that everyone's jealous of.
+
 ## Bots
+
 * **DukeTogo**: Best not to talk to it. If provoked, it will BTFO you in microseconds. Says **AndroitKitKat** (now skg) is gay and seems not to know about **browndawg**.
 * **gonzobot**: Snoonet's cloudbot instance. All of its functions that rely on external APIs are broken.
 * **CYBERDUNCE**: ~~AI-core re-enabled. Shitposts constantly.~~ Regulars bullied it to oblivion, resulting in constant e-depression. Bringer of RSS.
 * **jesi**: **xi**'s utter crap NodeJS bot that fucks itself up during every netsplit.
 * **lalilo**: Bot to control the gnulag radio.
+* **\\__{^-_-^}**: The channels official™ irc™ bot, replacing jesi, [git](https://gitlab.com/cocainefarm/gnulag/catinator)
 
 [^1]: You should spend time in channel regularly. In practice, this means that if you're 24/7 logged in, then at least every two weeks, you have to do some non-fake activity. This is to avoid people making local logs without adding anything to the channel. Compare and contrast [m]atrix lurker policy.
 [^2]: Dick
