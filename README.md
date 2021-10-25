@@ -181,6 +181,7 @@ If you're regular, PM **browndawg** or **audron** to get your name and descripti
 *  **FoxsideMiners** addicted to plushies, trying to take over the channel with furriness, one of the resident furries(see TinyTimmmyTokyo), underminds browngaydwag's authorioty.
 *  **Volkor** rollerblading pirate. Runs thecum.zone and a jellyfin server. Please send hand pictures to him.
 *  **poopingpenis**: principally Maoist, enjoyer of Gonzalo and the PCP. DM them about communism.
+* **Phase**: I've been waiting a couple years for crystalmett to put me on the site.
 
 ## Regulars Emeritus :(
 
