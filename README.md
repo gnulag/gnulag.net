@@ -12,6 +12,7 @@ GNU/Lag doesn't have many rules you'd have to explicitly state. Don't be a dick,
 * No lurking [^1]
 * Don't post logs anywhere.
 * Don't sneeze whilst getting fingered.
+
 ## Links
 
 * [Webchat](https://tknk.io/A5YW)
