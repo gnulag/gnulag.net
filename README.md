@@ -196,7 +196,6 @@ If you're regular, ask **audron**, **belzurix** or **browndawg** to get your nam
 * **Jennifer-Lawrence**: Actually a black man from rural Alabama. Would like to be an anime girl.  
   Has 10 terabytes of encrypted hentai on his university's Google Drive. Only actually appeared to fucc ducks and bang dicks.
 * **cheers**: Accelerationist. Responsible for global warming. Defected to #redoxmasterrace **> giving in to memes**
-* **theluke**: Member (read: **dick**) of the suprisingly large wog population on gnulag. Claims his brane is too small to learn anything other than vim. Edgy af.
 * **Tuxiee**: † [In Memoriam](https://gnulag.net/tuxiee-in-remembrance.html)
 * **ix**: Resident weeb and audiophile, doesn't like any guitar that isn't a telecaster.  
   Patron of the occult. Not to be bullied.
