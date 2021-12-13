@@ -136,6 +136,11 @@ Here's [the entire list of gonzobot commands](https://snoonet.org/gonzobot).
 We have regular movie nights at ever saturday, 18:00 UTC. You can vote for candidates at [a totally not shady website hosted by us](https://gnulag.herokuapp.com)
 [Stream](https://stream.gnulag.net) by the courtesy of **basso**.
 
+## Gnulag game stream
+
+We have regular streams at every sunday, 22:00 CET (or CEST, whatever timezone **belzurix** is in). This *currently* means 21:00 UTC.
+[Stream link](https://www.twitch.tv/gnulagstreamnight)
+
 ### n2n
 We run a n2n supernode for p2p connections. [Instruction](https://github.com/ntop/n2n) on how to install the client (edge node), then connect with
 ```
