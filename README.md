@@ -57,6 +57,7 @@ While the channel was mostly founded by members of another **Linux** channel, **
 * **audron**
 * **Z** | **Zowlyfon**
 * **A_Dragon** | **Roy_Mustang**
+* **iownall555**
 * **Volkor** | **AWindowsKrill**
 * **MrNeon**
 * **TinyTimmyTokyo** for Gantoo Lunix help or tips.
@@ -195,6 +196,7 @@ If you're regular, ask **audron**, **belzurix** or **browndawg** to get your nam
 * **Volkor** rollerblading pirate. Runs thecum.zone and a jellyfin server. Please send hand pictures to him.
 * **poopingpenis**: principally Maoist, enjoyer of Gonzalo and the PCP. DM them about communism.
 * **Phase**: has been waiting a couple years for crystalmett to put me on the site.
+* **iownall555**: browndawg-approved freeze peach enthusiast
 
 ## Regulars Emeritus :(
 
@@ -205,7 +207,6 @@ If you're regular, ask **audron**, **belzurix** or **browndawg** to get your nam
 * **ix**: Resident weeb and audiophile, doesn't like any guitar that isn't a telecaster.  
   Patron of the occult. Not to be bullied.
 * **whiteph**: Plays Guitar. Really good at physics.
-* **iownall555**: freeze peach enthusiast
 * **Crocodillian**: Resident weed smoker. Is into good music. Codes C (allegedly). Also has a history of Perl programming (which he regrets). Owns 420 core workstation that everyone's jealous of.
 * **WnB**: has great knowledge but prefers getting erect. Posts fap materials constantly. Biggest ~~dick~~ duck hunter in the history of **#gnulag**
 
