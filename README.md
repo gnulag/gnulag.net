@@ -197,6 +197,8 @@ If you're regular, ask **audron**, **belzurix** or **browndawg** to get your nam
 * **poopingpenis**: principally Maoist, enjoyer of Gonzalo and the PCP. DM them about communism.
 * **Phase**: has been waiting a couple years for crystalmett to put me on the site.
 * **iownall555**: browndawg-approved freeze peach enthusiast
+* **LordRishav**: Indian kid, everything he says is a shitpost and need not be taken seriously. Argues over anything. Switched to Emacs religion after **belzurix's** propaganda.
+
 
 ## Regulars Emeritus :(
 
