@@ -4,6 +4,7 @@ include:
 
 variables:
   S3_SRC: dist
+  S3_DEST: gnulag.net
 
 build:
   image: ejectedspace/pandoc-builder
