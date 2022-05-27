@@ -187,7 +187,7 @@ If you're regular, ask **audron**, **belzurix** or **browndawg** to get your nam
 * **Romanson**: Not roman, but son. Somewhere in a shitty 3rd world cuntry. Been bitching about not having a bio while being a bio student. The absolute botman.
 * **lanosz**: Resident slav, actually the only sane person in the entire channel (source: lanosz). ~~Bash scripting leviathan~~ Slave to emacs. Catbottom wont stop obsessing over him. Actually learned interslavic due too autism.
 * **IndyJoenz** Came back recently. Doing l33t h4x and ascii arts. Mascot of the channel, representing its spirit. Has DukeTogo as a bot.
-* **d1pl0mat**: ~~He~~ She often disappears for months on end with no explanation; this is normal. Helldesk rep for an actually-pretty-awesome security company. Is the reason `.gvy` is a recognized mimetype for Groovy source code on most Unix-based desktops[^1].
+* **d1pl0mat**: She often disappears for months on end with no explanation; this is normal. Customer-facing tech team lead for an actually-pretty-awesome security company. Is the reason `.gvy` is a recognized mimetype for Groovy source code on most Unix-based desktops. Was born with a dick; this bug is currently marked `WONTFIX`.
 * **k33k**: master hacker and shitposter with an ego bigger than your mum. In combat, pommels opponents into the ground.
 * **basso**: his servers are more _bronken_ than audron's (emanating smoke signals so owner knows what's up). Great memeposter.
 * **iamidly**: has weird ideas about how computers should be. Rolls his own distro and dogfoods his own coreutils replacement. Doesn't tolerate colorful output.
@@ -221,8 +221,6 @@ If you're regular, ask **audron**, **belzurix** or **browndawg** to get your nam
 * **lalilo**: Bot to control the gnulag radio.
 * ** \\__{^-_-^} **: The channels official™ irc™ bot, replacing jesi. [Sauce](https://gitlab.com/cocainefarm/gnulag/catinator)
 
-[^1]: Who the hell wants to type out `.groovy`‽ Might as well type `.betterversionofjavawithridiculouslylongfilenameextension`.
-
 ---
-© 2021 browndawg et al
+© 2022 browndawg et al
 
