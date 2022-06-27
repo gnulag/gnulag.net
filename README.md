@@ -163,9 +163,6 @@ Minecraft on `gnulag.net:25565`.
 
 If you're regular, ask **audron**, **belzurix** or **browndawg** to get your name and description on here,  or send a PR to [our github repo](https://github.com/gnulag/gnulag.net)
 
-* **browndawg**: BTW he uses Arch Linux. Benevolent, fair OP. Has the power of JS rockstars AND normal rockstars. Vim ninja. ~~Sometimes~~ Always shits on streets. ~~Wants to sex the benis.~~  
-  Is as straight as he is white, and he's white AF.(LIES (allegedly)).
-* **xi**: Author of our bot (vini). In a toxic relationship with baguettes. FreeBSD shill. Fuchsia shill. Writes segfaults in C that only compile on **FreeBSD** UPDATE: has committed the NodeJS heresy. Now his bot, **jesi**, works on linux, too.
 * **Zowlyfon**: Resident chad, lifts. Haskell Shill. In a sexual relationship with his headphones.
 * **RadiantBastard**: His job is to remove kebab and add chaos. Uses macOS like a fuccboi. Resident memeposter. Bringer of all news.
 * **[skg](https://en.wikipedia.org/wiki/Apple_Lisa)**: ウィーブ, Pretends to understand Japanese, actually kinda understands japanese, wants to live in japan someday, dont fuck with my bio you morons(no u), Resident weeb and connoisseur of all anime. Other resident fuccboi (seriously, MacOS bad). Possibly owns anal beads, freeballs it every once in a while, wants the longest bio to assert dominance over the other virgin bios, would also occasionally not turn down the notion of being a cute anime girl, is now a real anime girl. Formerly AndroidKitKat.
@@ -180,7 +177,6 @@ If you're regular, ask **audron**, **belzurix** or **browndawg** to get your nam
 * **za**: Depressed Arch Linux boye, is weirdly into keyboards, and anime tiddies. He pretends to be an audiophile, and vapes.
 * **justJanne**: Genius. Never forgets a thing she reads. Resident data collection agency.
 * **Seirdy**: big fan of CLIs and prefers everything to GUI. His data collection is greedier than Zuckbook's, Twatter's and NSA's combined. Channel-wise: polyamorous
-* **crystalmett**: Turn-ons: OPSEC Turn-offs: [TRIPLE REDACTED AND BURNED FOR GOOD MEASURE]
 * **belzurix**: Comrade general. Fell into the Emacs rabbit hole.
 * **Rolfe**: Farm fresh Idaho potato. Waifu supplier. Insists her stuffed toy collection doesn't come alive when you're asleep. Dabbles in rule34 involving extra long moustaches.
 * **random-nick**: Impossible to annoy, resident Common Lisp shill. Rekts any other lisp dialect that appears in the dicussion.
@@ -199,7 +195,6 @@ If you're regular, ask **audron**, **belzurix** or **browndawg** to get your nam
 * **iownall555**: browndawg-approved freeze peach enthusiast
 * **LordRishav**: Indian kid, everything he says is a shitpost and need not be taken seriously. Argues over anything. Switched to Emacs religion after **belzurix's** propaganda.
 
-
 ## Regulars Emeritus :(
 
 * **Jennifer-Lawrence**: Actually a black man from rural Alabama. Would like to be an anime girl.  
@@ -211,6 +206,10 @@ If you're regular, ask **audron**, **belzurix** or **browndawg** to get your nam
 * **whiteph**: Plays Guitar. Really good at physics.
 * **Crocodillian**: Resident weed smoker. Is into good music. Codes C (allegedly). Also has a history of Perl programming (which he regrets). Owns 420 core workstation that everyone's jealous of.
 * **WnB**: has great knowledge but prefers getting erect. Posts fap materials constantly. Biggest ~~dick~~ duck hunter in the history of **#gnulag**
+* **browndawg**: BTW he uses Arch Linux. Benevolent, fair OP. Has the power of JS rockstars AND normal rockstars. Vim ninja. ~~Sometimes~~ Always shits on streets. ~~Wants to sex the benis.~~  
+  Is as straight as he is white, and he's white AF.(LIES (allegedly)).
+* **xi**: Author of our bot (vini). In a toxic relationship with baguettes. FreeBSD shill. Fuchsia shill. Writes segfaults in C that only compile on **FreeBSD** UPDATE: has committed the NodeJS heresy. Now his bot, **jesi**, works on linux, too.
+* **crystalmett**: Turn-ons: OPSEC Turn-offs: [TRIPLE REDACTED AND BURNED FOR GOOD MEASURE]
 
 ## Bots
 
@@ -219,8 +218,8 @@ If you're regular, ask **audron**, **belzurix** or **browndawg** to get your nam
 * **CYBERDUNCE**: ~~AI-core re-enabled. Shitposts constantly.~~ Regulars bullied it to oblivion, resulting in constant e-depression. Bringer of RSS.
 * **jesi**: **xi**'s utter crap NodeJS bot that fucks itself up during every netsplit.
 * **lalilo**: Bot to control the gnulag radio.
-* ** \\__{^-_-^} **: The channels official™ irc™ bot, replacing jesi. [Sauce](https://gitlab.com/cocainefarm/gnulag/catinator)
+* ** \\__{^-_-^} **: The channels official™ irc™ bot, replacing jesi. [Sauce](https://gitlab.com/cocainefarm/gnulag/catinator)
 
 ---
-© 2022 browndawg et al
+© 2022 <insert non-browndawg here> et al
 
