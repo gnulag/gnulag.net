@@ -120,9 +120,9 @@ No. Its #lmr with porn, commies and non-whites, ~~minus the [m]atrix lurkers.~~ 
 
 The #linuxmasterrace also offered shelter to refugees of #gnulag during the tyranny period.
 
-### How is this channel related to the gnulag discord?
+### What's with this bitching about "recent events" (as of 2022 summer)?
 
-The great schism happened during early 2022, but the stormclouds have been congregating since 2021 september. Comrade leader showed animosity towards certain, proven citizens. Then, the CIA left the channel and the goverment collapsed. The comrade leader went full dictator, and when he realized he doesn't want to bother, he set up an interim government to stop the channel's coming breakdown. The interim government could only maintain authority in a small region, people started migrating.
+A Great Schism happened during early 2022, but the stormclouds have been congregating since 2021 september. Comrade leader showed animosity towards certain, proven citizens. Then, the CIA left the channel and the goverment collapsed. The comrade leader went full dictator, and when he realized he doesn't want to bother, he set up an interim government to stop the channel's coming breakdown. The interim government could only maintain authority in a small region, people started migrating.
 
 There were three rump states. One of those was the irc channel, one was on telegram, and one is still alive on discord. The telegram quickly collapsed, its downfall coincided with the Russo-Ukrainian war.
 
