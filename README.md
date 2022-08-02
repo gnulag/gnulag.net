@@ -6,13 +6,13 @@ Welcome to browndawg's lowbrow society for programmers and sysadmins.
 
 GNU/Lag doesn't have many rules you'd have to explicitly state. Don't be a dick, and you should be fine.
 
-* No lurking
+1. No lurking
   If you're logged in 24/7, then every 12-14 days, you should engage in conversation. This is to avoid people making local logs while not adding anything to the channel. Part of the reason why we purged [m]atrix lurkers.
-* No CP (we'll report you to every three letter agency in existence).
-* **NSFW** content need not be marked. Please mark gore and such as **NSFL**.
-* [PSA](https://gnulag.net/psa.html)
-* Don't post logs anywhere.
-* Don't sneeze whilst getting fingered.
+2. No CP (we'll report you to every three letter agency in existence).
+3. **NSFW** content need not be marked. Please mark gore and such as **NSFL**.
+4. [PSA](https://gnulag.net/psa.html)
+5. Don't post logs anywhere.
+6. Don't sneeze whilst getting fingered.
 
 ## Links
 
@@ -25,7 +25,7 @@ GNU/Lag doesn't have many rules you'd have to explicitly state. Don't be a dick,
 
 ## Topics
 
-While the channel was mostly founded by members of another **Linux** channel, **#gnulag** is a general programming + sysadmin channel. You'll find a wide range of topics being discussed, including, but not limited to:
+While the channel was mostly founded by members of another **Linux** channel, **#gnulag** is a general channel, with some leaning towards programming and sysadmin stuff. You'll find a wide range of topics being discussed, including, but not limited to:
 
 * Anything other than Linux
 * Communism, Capitalism, Anarcho-syndicorporalicapitalisticimperialism within closed communal tribes.
@@ -36,7 +36,7 @@ While the channel was mostly founded by members of another **Linux** channel, **
 * How awesome canada is
 * Computer Science and Programming.
 * Zygohistomorphic prepromorphisms.
-* Poor career decisions (ask **whiteph** or **belzurix**).
+* Poor career decisions (ask **whiteph**).
 * Bad Dragons (actually, dildos of all shapes and sizes).
 * Definitions of controversial words.
 * Religion, and the occult.
@@ -52,16 +52,14 @@ While the channel was mostly founded by members of another **Linux** channel, **
 
 ### Who do I ask for help?
 
-* **browndawg** | **Richard-Stalin**
-* **crystalmett**
 * **audron**
 * **Z** | **Zowlyfon**
-* **A_Dragon** | **Roy_Mustang**
 * **iownall555**
 * **Volkor** | **AWindowsKrill**
 * **MrNeon**
-* **TinyTimmyTokyo** for Gantoo Lunix help or tips.
 * **belzurix**
+* **TinyTimmyTokyo** for Gantoo Lunix help or tips.
+* **A_Dragon** | **Roy_Mustang**
 * **Anyone on the Suckless mailing list**
 
 In that order.
@@ -82,7 +80,7 @@ Observe our rule #1, aka the "no lurking" rule. If you stay connected and don't 
 * `/mode +j #gnulag`, or google on how to set up `autojoin` in your IRC client.
 * If you've been to Snoonet for more than a month, get a [Snoonet BNC](https://snoonet.org/bnc) account (if you don't already have one), 
 * set up a [Quassel Core](https://quassel-irc.org/) / [Weechat Relay](https://weechat.org/) / [ZNC server](https://wiki.znc.in/ZNC) somewhere.
-* Alternatively, ping **browndawg**, or **skg** for an account on their server.
+* ~~Alternatively, ping **skg** for an account on their server~~. Right now, none of us are running bouncers.
 
 
 ### Can I ask for programming / unix help?
@@ -96,7 +94,7 @@ You'll have to host it somewhere, and share a public link. There are scripts and
 We have two services hosted by community members:
 
 * [thecum.zone](https://thecum.zone)   - by **Volkor**
-* [WaifuPaste](https://waifupaste.moe) - by **skg**
+* ~~[WaifuPaste](https://waifupaste.moe) - by **skg**~~
 * [Pastor](https://c-v.sh)	       - by **audron**
 or use public services like:
 
@@ -111,7 +109,7 @@ Please note that DCC is disabled on Snoonet.
 
 For code or any arbitrary text really [github gist](https://gist.github.com/) is a good choice.
 
-Note by **belzurix**: Don't be surprised if nobody wants to open a .tar.xz file of yours. [Read more on zip bombs](https://en.wikipedia.org/wiki/Zip_bomb).
+Note by **belzurix**: [Don't be surprised if nobody wants to open a .tar.xz file of yours](https://en.wikipedia.org/wiki/Zip_bomb).
 
 ## History
 
@@ -119,6 +117,16 @@ Note by **belzurix**: Don't be surprised if nobody wants to open a .tar.xz file 
 
 No. Its #lmr with porn, commies and non-whites, ~~minus the [m]atrix lurkers.~~ (PURGED)
 **Not affiliated with the subreddit / channel.**, many regulars show up in both chanels, though. This created border conflicts which later escalated into a full-scale war. #gnulag won the war without losing a single battle.
+
+The #linuxmasterrace also offered shelter to refugees of #gnulag during the tyranny period.
+
+### How is this channel related to the gnulag discord?
+
+The great schism happened during early 2022, but the stormclouds have been congregating since 2021 september. Comrade leader showed animosity towards certain, proven citizens. Then, the CIA left the channel and the goverment collapsed. The comrade leader went full dictator, and when he realized he doesn't want to bother, he set up an interim government to stop the channel's coming breakdown. The interim government could only maintain authority in a small region, people started migrating.
+
+There were three rump states. One of those was the irc channel, one was on telegram, and one is still alive on discord. The telegram quickly collapsed, its downfall coincided with the Russo-Ukrainian war.
+
+After several months, the de facto leaders of the remaining states excommunicated each other, and the period of the Great Petty Schism started.
 
 ### How is the channel related to #redoxmasterrace ?
 
@@ -131,6 +139,8 @@ It was a channel funded by our government. It's manufactured opposition, a honey
 ## Bots & Entertainment
 
 Here's [the entire list of gonzobot commands](https://snoonet.org/gonzobot).
+
+Right now both the movie night and the stream sessions are on hiatus due to lack of interest. Ping **basso** for movie night and **belzurix** for streams.
 
 ### Gnulag movie night
 
@@ -161,7 +171,7 @@ Minecraft on `gnulag.net:25565`.
 
 ## Regulars
 
-If you're regular, ask **audron**, **belzurix** or **browndawg** to get your name and description on here,  or send a PR to [our github repo](https://github.com/gnulag/gnulag.net)
+If you're regular, ask **audron** or **belzurix** to get your name and description on here, or send a PR to [our github repo](https://github.com/gnulag/gnulag.net)
 
 * **Zowlyfon**: Resident chad, lifts. Haskell Shill. In a sexual relationship with his headphones.
 * **RadiantBastard**: His job is to remove kebab and add chaos. Uses macOS like a fuccboi. Resident memeposter. Bringer of all news.
@@ -206,7 +216,7 @@ If you're regular, ask **audron**, **belzurix** or **browndawg** to get your nam
 * **whiteph**: Plays Guitar. Really good at physics.
 * **Crocodillian**: Resident weed smoker. Is into good music. Codes C (allegedly). Also has a history of Perl programming (which he regrets). Owns 420 core workstation that everyone's jealous of.
 * **WnB**: has great knowledge but prefers getting erect. Posts fap materials constantly. Biggest ~~dick~~ duck hunter in the history of **#gnulag**
-* **browndawg**: BTW he uses Arch Linux. Benevolent, fair OP. Has the power of JS rockstars AND normal rockstars. Vim ninja. ~~Sometimes~~ Always shits on streets. ~~Wants to sex the benis.~~  
+* **browndawg**: Former comrade leader. BTW he uses Arch Linux. Benevolent, fair OP. Has the power of JS rockstars AND normal rockstars. Vim ninja. ~~Sometimes~~ Always shits on streets. ~~Wants to sex the benis.~~  
   Is as straight as he is white, and he's white AF.(LIES (allegedly)).
 * **xi**: Author of our bot (vini). In a toxic relationship with baguettes. FreeBSD shill. Fuchsia shill. Writes segfaults in C that only compile on **FreeBSD** UPDATE: has committed the NodeJS heresy. Now his bot, **jesi**, works on linux, too.
 * **crystalmett**: Turn-ons: OPSEC Turn-offs: [TRIPLE REDACTED AND BURNED FOR GOOD MEASURE]
@@ -215,10 +225,11 @@ If you're regular, ask **audron**, **belzurix** or **browndawg** to get your nam
 
 * **DukeTogo**: Best not to talk to it. If provoked, it will BTFO you in microseconds. ~~Says **AndroitKitKat** (now skg) is gay and seems not to know about **browndawg**.~~
 * **gonzobot**: Snoonet's cloudbot instance. All of its functions that rely on external APIs are broken.
-* **CYBERDUNCE**: ~~AI-core re-enabled. Shitposts constantly.~~ Regulars bullied it to oblivion, resulting in constant e-depression. Bringer of RSS.
-* **jesi**: **xi**'s utter crap NodeJS bot that fucks itself up during every netsplit.
-* **lalilo**: Bot to control the gnulag radio.
+* ~~**CYBERDUNCE**: AI-core re-enabled. Shitposts constantly. Regulars bullied it to oblivion, resulting in constant e-depression. Bringer of RSS.~~
+* ~~**jesi**: **xi**'s utter crap NodeJS bot that fucks itself up during every netsplit.~~
+* **lalilo**: Bot to control the gnulag radio. Only online when a gnulag radio session is happening.
 * ** \\__{^-_-^} **: The channels official™ irc™ bot, replacing jesi. [Sauce](https://gitlab.com/cocainefarm/gnulag/catinator)
+* **subgrok**: reddit news bot
 
 ---
 © 2022 <insert non-browndawg here> et al
