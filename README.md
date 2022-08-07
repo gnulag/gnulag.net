@@ -175,12 +175,8 @@ If you're regular, ask **audron** or **belzurix** to get your name and descripti
 
 * **Zowlyfon**: Resident chad, lifts. Haskell Shill. In a sexual relationship with his headphones.
 * **RadiantBastard**: His job is to remove kebab and add chaos. Uses macOS like a fuccboi. Resident memeposter. Bringer of all news.
-* **[skg](https://en.wikipedia.org/wiki/Apple_Lisa)**: ウィーブ, Pretends to understand Japanese, actually kinda understands japanese, wants to live in japan someday, dont fuck with my bio you morons(no u), Resident weeb and connoisseur of all anime. Other resident fuccboi (seriously, MacOS bad). Possibly owns anal beads, freeballs it every once in a while, wants the longest bio to assert dominance over the other virgin bios, would also occasionally not turn down the notion of being a cute anime girl, is now a real anime girl. Formerly AndroidKitKat.
-* **pta2002**: Idiot kid. Actually a genius. Plays plastic guitar, ~~but would love to play actual guitar~~ **UPDATE**: plays actual guitar too. Likes BSPWM, Fedora, and allegedly codes in Go in his spare time, only to complain about it afterwards. Has a crush on Link, ~~no~~ ~~full~~ half homo.
 * **AB49K**: Programs in an obsolete python version in the land down under, lives in shipping container. Has cute doggos. Will die of liver failure at age 30. Thongs wogs.
-* **audron**: Master of containers. Hosts a bunch of shit that constantly breaks.  
-  Somehow attracts segfaults. Person to annoy if anything breaks down.
-* **A_Dragon**: Resident nazi mod. Eats babies. Surprisingly good guy. Other resident furry. Ask him what his name stands for.
+* **audron**: Master of containers. Hosts a bunch of shit that constantly breaks. Somehow attracts segfaults. Person to annoy if anything breaks down.
 * **MrNeon**: Resident commie. Sleeps with his socks on. May or may not use actual neon lights as dildoes. Connoisseur of incest porn.
 * **catbottom**: Resident chink. Loyalty in question. Seen more in #lmr than #gnulag. Thinks your doggo is a snacc.
 * **TinyTimmyTokyo**: Resident gayboye, Gantoo Lunix nerd, and eternally sleepless lurker. (Allegedly) is somewhat good at coding in C++ and Shell. Has Golden Retriever doggo but likes cats (don't ask why). Chaotic evil regexer. Also resident furry. Into transformation porn. [Help Needed](https://gnulag.net/please-help-tinytimmytokyo.html)
@@ -195,7 +191,7 @@ If you're regular, ask **audron** or **belzurix** to get your name and descripti
 * **IndyJoenz** Came back recently. Doing l33t h4x and ascii arts. Mascot of the channel, representing its spirit. Has DukeTogo as a bot.
 * **d1pl0mat**: She often disappears for months on end with no explanation; this is normal. Customer-facing tech team lead for an actually-pretty-awesome security company. Is the reason `.gvy` is a recognized mimetype for Groovy source code on most Unix-based desktops. Was born with a dick; this bug is currently marked `WONTFIX`.
 * **k33k**: master hacker and shitposter with an ego bigger than your mum. In combat, pommels opponents into the ground.
-* **basso**: his servers are more _bronken_ than audron's (emanating smoke signals so owner knows what's up). Great memeposter.
+* **basso**: his servers are even more _bronken_ than audron's (Monitoring happens with smoke signals). Great memeposter.
 * **iamidly**: has weird ideas about how computers should be. Rolls his own distro and dogfoods his own coreutils replacement. Doesn't tolerate colorful output.
 * **Shadowhand**: all around sr tech ninja, uses windows but yearns for linux, possibly autistic, boobs (his own ones) and cats are his specialty.
 * **FoxsideMiners** addicted to plushies, trying to take over the channel with furriness, one of the resident furries(see TinyTimmmyTokyo), underminds browngaydwag's authorioty.
@@ -207,7 +203,7 @@ If you're regular, ask **audron** or **belzurix** to get your name and descripti
 
 ## Regulars Emeritus :(
 
-* **Jennifer-Lawrence**: Actually a black man from rural Alabama. Would like to be an anime girl.  
+* **Jennifer-Lawrence**: Actually a black man from rural Alabama. Would like to be an anime girl.
   Has 10 terabytes of encrypted hentai on his university's Google Drive. Only actually appeared to fucc ducks and bang dicks.
 * **cheers**: Accelerationist. Responsible for global warming. Defected to #redoxmasterrace **> giving in to memes**
 * **Tuxiee**: † [In Memoriam](https://gnulag.net/tuxiee-in-remembrance.html)
@@ -220,7 +216,9 @@ If you're regular, ask **audron** or **belzurix** to get your name and descripti
   Is as straight as he is white, and he's white AF.(LIES (allegedly)).
 * **xi**: Author of our bot (vini). In a toxic relationship with baguettes. FreeBSD shill. Fuchsia shill. Writes segfaults in C that only compile on **FreeBSD** UPDATE: has committed the NodeJS heresy. Now his bot, **jesi**, works on linux, too.
 * **crystalmett**: Turn-ons: OPSEC Turn-offs: [TRIPLE REDACTED AND BURNED FOR GOOD MEASURE]
-
+* **[skg](https://en.wikipedia.org/wiki/Apple_Lisa)**: ウィーブ, Pretends to understand Japanese, actually kinda understands japanese, wants to live in japan someday, dont fuck with my bio you morons(no u), Resident weeb and connoisseur of all anime. Other resident fuccboi (seriously, MacOS bad). Possibly owns anal beads, freeballs it every once in a while, wants the longest bio to assert dominance over the other virgin bios, would also occasionally not turn down the notion of being a cute anime girl, is now a real anime girl. Formerly AndroidKitKat.
+* **pta2002**: Idiot kid. Actually a genius. Plays plastic guitar, ~~but would love to play actual guitar~~ **UPDATE**: plays actual guitar too. Likes BSPWM, Fedora, and allegedly codes in Go in his spare time, only to complain about it afterwards. Has a crush on Link, ~~no~~ ~~full~~ half homo.
+* **A_Dragon**: Resident nazi mod. Eats babies. Surprisingly good guy. Other resident furry. Ask him what his name stands for.
 ## Bots
 
 * **DukeTogo**: Best not to talk to it. If provoked, it will BTFO you in microseconds. ~~Says **AndroitKitKat** (now skg) is gay and seems not to know about **browndawg**.~~
