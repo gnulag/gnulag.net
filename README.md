@@ -176,7 +176,7 @@ If you're regular, ask **audron** or **belzurix** to get your name and descripti
 * **Zowlyfon**: Resident chad, lifts. Haskell Shill. In a sexual relationship with his headphones.
 * **RadiantBastard**: His job is to remove kebab and add chaos. Uses macOS like a fuccboi. Resident memeposter. Bringer of all news.
 * **AB49K**: Programs in an obsolete python version in the land down under, lives in shipping container. Has cute doggos. Will die of liver failure at age 30. Thongs wogs.
-* **audron**: Master of containers. Hosts a bunch of shit that constantly breaks. Somehow attracts segfaults. Person to annoy if anything breaks down.
+* **audron**: "Master" of containers. Can't contain himself. Hosts a bunch of shit that constantly breaks. Somehow attracts segfaults. Person to nag if anything breaks down.
 * **MrNeon**: Resident commie. Sleeps with his socks on. May or may not use actual neon lights as dildoes. Connoisseur of incest porn.
 * **catbottom**: Resident chink. Loyalty in question. Seen more in #lmr than #gnulag. Thinks your doggo is a snacc.
 * **TinyTimmyTokyo**: Resident gayboye, Gantoo Lunix nerd, and eternally sleepless lurker. (Allegedly) is somewhat good at coding in C++ and Shell. Has Golden Retriever doggo but likes cats (don't ask why). Chaotic evil regexer. Also resident furry. Into transformation porn. [Help Needed](https://gnulag.net/please-help-tinytimmytokyo.html)
@@ -190,7 +190,6 @@ If you're regular, ask **audron** or **belzurix** to get your name and descripti
 * **lanosz**: Resident slav, actually the only sane person in the entire channel (source: lanosz). ~~Bash scripting leviathan~~ Slave to emacs. Catbottom wont stop obsessing over him. Actually learned interslavic due too autism.
 * **IndyJoenz** Came back recently. Doing l33t h4x and ascii arts. Mascot of the channel, representing its spirit. Has DukeTogo as a bot.
 * **d1pl0mat**: She often disappears for months on end with no explanation; this is normal. Customer-facing tech team lead for an actually-pretty-awesome security company. Is the reason `.gvy` is a recognized mimetype for Groovy source code on most Unix-based desktops. Was born with a dick; this bug is currently marked `WONTFIX`.
-* **k33k**: master hacker and shitposter with an ego bigger than your mum. In combat, pommels opponents into the ground.
 * **basso**: his servers are even more _bronken_ than audron's (Monitoring happens with smoke signals). Great memeposter.
 * **iamidly**: has weird ideas about how computers should be. Rolls his own distro and dogfoods his own coreutils replacement. Doesn't tolerate colorful output.
 * **Shadowhand**: all around sr tech ninja, uses windows but yearns for linux, possibly autistic, boobs (his own ones) and cats are his specialty.
@@ -199,7 +198,7 @@ If you're regular, ask **audron** or **belzurix** to get your name and descripti
 * **poopingpenis**: principally Maoist, enjoyer of Gonzalo and the PCP. DM them about communism.
 * **Phase**: has been waiting a couple years for crystalmett to put me on the site.
 * **iownall555**: browndawg-approved freeze peach enthusiast
-* **LordRishav**: Indian kid, everything he says is a shitpost and need not be taken seriously. Argues over anything. Switched to Emacs religion after **belzurix's** propaganda.
+* **LordRishav**: Indian kid, resident shitposter. Viciously argumentative. Converted to the Church of Emacs due to **belzurix's** evangelism.
 
 ## Regulars Emeritus :(
 
@@ -221,6 +220,7 @@ If you're regular, ask **audron** or **belzurix** to get your name and descripti
 * **A_Dragon**: Resident nazi mod. Eats babies. Surprisingly good guy. Other resident furry. Ask him what his name stands for.
 ## Bots
 
+* **k33k**: master hacker and shitposter with an ego bigger than your mum. In combat, pommels opponents into the ground.
 * **DukeTogo**: Best not to talk to it. If provoked, it will BTFO you in microseconds. ~~Says **AndroitKitKat** (now skg) is gay and seems not to know about **browndawg**.~~
 * **gonzobot**: Snoonet's cloudbot instance. All of its functions that rely on external APIs are broken.
 * ~~**CYBERDUNCE**: AI-core re-enabled. Shitposts constantly. Regulars bullied it to oblivion, resulting in constant e-depression. Bringer of RSS.~~
@@ -230,5 +230,5 @@ If you're regular, ask **audron** or **belzurix** to get your name and descripti
 * **subgrok**: reddit news bot
 
 ---
-© 2022 <insert non-browndawg here> et al
+© 2022 gnulag community et al
 
