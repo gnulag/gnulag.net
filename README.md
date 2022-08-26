@@ -1,6 +1,6 @@
 # GNU/Lag
 
-Welcome to browndawg's lowbrow society for programmers and sysadmins.
+Welcome to ~~browndawg~~'s lowbrow society for programmers and sysadmins.
 
 ## Rules
 
@@ -196,9 +196,10 @@ If you're regular, ask **audron** or **belzurix** to get your name and descripti
 * **FoxsideMiners** addicted to plushies, trying to take over the channel with furriness, one of the resident furries(see TinyTimmmyTokyo), underminds browngaydwag's authorioty.
 * **Volkor** rollerblading pirate. Runs thecum.zone and a jellyfin server. Please send hand pictures to him.
 * **poopingpenis**: principally Maoist, enjoyer of Gonzalo and the PCP. DM them about communism.
-* **Phase**: has been waiting a couple years for crystalmett to put me on the site.
-* **iownall555**: browndawg-approved freeze peach enthusiast
+* **Phase**: has been waiting a couple years for crystalmett to put them on the site.
+* **iownall555**: ~~browndawg~~-approved freeze peach enthusiast
 * **LordRishav**: Indian kid, resident shitposter. Viciously argumentative. Converted to the Church of Emacs due to **belzurix's** evangelism.
+* **scotch**: Degeneweeb alcoholist shitposter Bad at computoring (~~no~~). Does DevOps for a living. 
 
 ## Regulars Emeritus :(
 
@@ -211,7 +212,7 @@ If you're regular, ask **audron** or **belzurix** to get your name and descripti
 * **whiteph**: Plays Guitar. Really good at physics.
 * **Crocodillian**: Resident weed smoker. Is into good music. Codes C (allegedly). Also has a history of Perl programming (which he regrets). Owns 420 core workstation that everyone's jealous of.
 * **WnB**: has great knowledge but prefers getting erect. Posts fap materials constantly. Biggest ~~dick~~ duck hunter in the history of **#gnulag**
-* **browndawg**: Former comrade leader. BTW he uses Arch Linux. Benevolent, fair OP. Has the power of JS rockstars AND normal rockstars. Vim ninja. ~~Sometimes~~ Always shits on streets. ~~Wants to sex the benis.~~  
+* ~~browndawg~~: Former comrade leader. BTW he uses Arch Linux. Benevolent, fair OP. Has the power of JS rockstars AND normal rockstars. Vim ninja. ~~Sometimes~~ Always shits on streets. ~~Wants to sex the benis.~~  
   Is as straight as he is white, and he's white AF.(LIES (allegedly)).
 * **xi**: Author of our bot (vini). In a toxic relationship with baguettes. FreeBSD shill. Fuchsia shill. Writes segfaults in C that only compile on **FreeBSD** UPDATE: has committed the NodeJS heresy. Now his bot, **jesi**, works on linux, too.
 * **crystalmett**: Turn-ons: OPSEC Turn-offs: [TRIPLE REDACTED AND BURNED FOR GOOD MEASURE]
@@ -221,7 +222,7 @@ If you're regular, ask **audron** or **belzurix** to get your name and descripti
 ## Bots
 
 * **k33k**: master hacker and shitposter with an ego bigger than your mum. In combat, pommels opponents into the ground.
-* **DukeTogo**: Best not to talk to it. If provoked, it will BTFO you in microseconds. ~~Says **AndroitKitKat** (now skg) is gay and seems not to know about **browndawg**.~~
+* **DukeTogo**: Best not to talk to it. If provoked, it will BTFO you in microseconds.
 * **gonzobot**: Snoonet's cloudbot instance. All of its functions that rely on external APIs are broken.
 * ~~**CYBERDUNCE**: AI-core re-enabled. Shitposts constantly. Regulars bullied it to oblivion, resulting in constant e-depression. Bringer of RSS.~~
 * ~~**jesi**: **xi**'s utter crap NodeJS bot that fucks itself up during every netsplit.~~
