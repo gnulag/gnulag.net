@@ -195,7 +195,6 @@ If you're regular, ask **audron** or **belzurix** to get your name and descripti
 * **Shadowhand**: all around sr tech ninja, uses windows but yearns for linux, possibly autistic, boobs (his own ones) and cats are his specialty.
 * **FoxsideMiners** addicted to plushies, trying to take over the channel with furriness, one of the resident furries(see TinyTimmmyTokyo), underminds browngaydwag's authorioty.
 * **Volkor** rollerblading pirate. Runs thecum.zone and a jellyfin server. Please send hand pictures to him.
-* **poopingpenis**: principally Maoist, enjoyer of Gonzalo and the PCP. DM them about communism.
 * **Phase**: has been waiting a couple years for crystalmett to put them on the site.
 * **iownall555**: ~~browndawg~~-approved freeze peach enthusiast
 * **LordRishav**: Indian kid, resident shitposter. Viciously argumentative. Converted to the Church of Emacs due to **belzurix's** evangelism.
